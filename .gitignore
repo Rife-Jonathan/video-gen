@@ -10,9 +10,9 @@ brands/*/footage/*.webm
 brands/*/footage/*.mp4
 brands/*/shots/
 
-# Voice-over — dibangkitkan ulang lewat chrome-ext-tts dari naskah/.
-# Transkrip word-level ikut masuk repo karena itu hasil ASR yang lama diproses.
-brands/*/vo/*.wav
+# Voice-over IKUT masuk repo. Generate ulang lewat AI Studio memakan kuota request,
+# dan voice_asli.wav adalah rekaman suara asli yang tidak bisa dibangkitkan ulang.
+# Transkrip word-level ikut juga karena ASR-nya lama diproses.
 brands/*/vo/*.mp3
 
 # Hasil antara HyperFrames
