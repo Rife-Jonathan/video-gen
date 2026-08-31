@@ -1,0 +1,32 @@
+# Dependensi — dipasang ulang lewat package.json / requirements
+node_modules/
+.venv-asr/
+__pycache__/
+*.pyc
+
+# Footage mentah — direkam ulang dengan `node ../../tools/record-library.js`.
+# manifest.json TIDAK diabaikan: itu peta safeStart/usable yang mahal dibuat.
+brands/*/footage/*.webm
+brands/*/footage/*.mp4
+brands/*/shots/
+
+# Voice-over — dibangkitkan ulang lewat chrome-ext-tts dari naskah/.
+# Transkrip word-level ikut masuk repo karena itu hasil ASR yang lama diproses.
+brands/*/vo/*.wav
+brands/*/vo/*.mp3
+
+# Hasil antara HyperFrames
+brands/*/project/snapshots/
+brands/*/project/public/
+brands/*/project/.hyperframes/
+
+# Versi preview terkompresi — hasil final di out/ sudah cukup
+brands/*/project/out/*-preview.mp4
+
+# Rekaman referensi lokal
+konsep.mp4
+
+# Sistem
+.DS_Store
+Thumbs.db
+*.log

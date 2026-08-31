@@ -1,0 +1,21 @@
+Rekam medis gigi punya masalah yang khas. Catatannya tidak cuma soal keluhan pasien, tapi soal gigi mana yang bermasalah, sudah ditambal di sebelah mana, dan mana yang sudah dicabut. Kalau semua itu ditulis di kertas, dokter berikutnya harus menebak dari tulisan tangan orang lain. Di video ini saya akan tunjukkan bagaimana bagian itu dikerjakan di DentalCare Studio.
+
+Kita mulai dari halaman pemeriksaan. Setelah pasien masuk ruang periksa, dokter membuka data pasien dan mengisi catatan klinis dengan format SOAP. Subjektif untuk keluhan yang disampaikan pasien, objektif untuk temuan pemeriksaan, assessment untuk diagnosis, dan plan untuk rencana perawatan.
+
+Di bagian diagnosis ada pilihan kode ICD sepuluh. Dokter memilih dari daftar, tidak mengetik bebas. Jadi istilah yang dipakai seragam antar dokter, dan catatannya tetap terbaca ketika dibuka berbulan-bulan kemudian.
+
+Sekarang bagian yang paling khas untuk klinik gigi: odontogram. Ini adalah peta gigi yang bisa diklik. Setiap gigi punya nomornya sendiri sesuai penomoran standar, dan kondisinya ditandai dengan warna.
+
+Dokter tinggal memilih giginya, lalu memilih kondisinya. Caries, tambalan, gigi hilang, sampai gigi yang sudah dicabut, masing-masing punya warna berbeda. Karena ditandai dengan warna, kondisi mulut pasien bisa dibaca sekilas tanpa harus membaca satu per satu catatannya.
+
+Daftar kondisi giginya sendiri bisa diatur di menu tersendiri. Jadi kalau klinik punya istilah atau penandaan yang biasa dipakai, daftarnya bisa disesuaikan, bukan dikunci bawaan sistem.
+
+Setelah pemeriksaan selesai, dokter menentukan tindakan. Di menu Tindakan sudah tersedia daftar layanan lengkap dengan kode, kategori, tarif, dan perkiraan durasinya. Dokter memilih dari daftar, tidak mengetik ulang nama tindakan. Karena tarifnya sudah tersimpan di sana, harga yang keluar konsisten, tidak berubah tergantung siapa yang jaga hari itu.
+
+Semua yang dicatat tadi menempel ke pasiennya. Di halaman detail pasien ada tab riwayat kunjungan, yang menampilkan setiap kali pasien datang beserta apa yang dikerjakan waktu itu. Ada juga tab riwayat perubahan, jadi terlihat catatan mana yang pernah diubah dan kapan.
+
+Ini yang membuat penanganan jadi lebih mudah ketika pasien ditangani dokter yang berbeda. Dokter yang baru pertama kali menangani pasien itu bisa membuka odontogramnya, melihat gigi mana yang sudah dikerjakan, lalu melanjutkan dari sana.
+
+Jadi ringkasnya: catatan klinis terstruktur, kondisi gigi terpetakan per gigi, dan riwayatnya tersimpan per pasien. Tiga hal yang kalau masih di kertas, biasanya paling cepat berantakan.
+
+Kalau ingin melihat langsung odontogram dan halaman pemeriksaannya, versi demonya bisa dicoba lewat tautan di deskripsi.

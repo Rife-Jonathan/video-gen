@@ -1,0 +1,1 @@
+Setelah pemeriksaan dan tindakan selesai, berikutnya kita masuk ke transaksi. Invoice terbentuk dari tindakan dan obat yang tadi dicatat, jadi tidak ada yang perlu diketik dua kali. Setiap tagihan punya nomor, status pembayaran, dan detail yang bisa dibuka kembali kapan saja. Jadi tidak ada tindakan yang lupa ditagih, dan pemasukan klinik tercatat rapi.

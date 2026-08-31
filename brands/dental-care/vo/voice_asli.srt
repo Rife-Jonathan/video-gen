@@ -1,0 +1,336 @@
+1
+00:00:00,000 --> 00:00:03,100
+Di video kali ini, saya akan memperkenahkan dental care,
+
+2
+00:00:03,500 --> 00:00:08,860
+aplikasi yang dibuat untuk membantu pengelolaan operasional klinik gigi menjadi lebih rapi dan terintegrasi.
+
+3
+00:00:09,820 --> 00:00:14,860
+Sebagai tenaga kesehatan, tentu fokus utama adalah memberikan pelayanan terbaik kepada pasien.
+
+4
+00:00:15,320 --> 00:00:20,400
+Tapi di balik itu, masih ada banyak hal yang juga harus dikelola, mulai dari jatual pasien,
+
+5
+00:00:20,720 --> 00:00:27,140
+antrean, rekam medis, tindakan, stok obat, transaksi, komisi dokter, sampai laporan klinik.
+
+6
+00:00:27,780 --> 00:00:33,020
+Semakin banyak pasien, proses administrasi seperti ini juga semakin kompleks kalau masih dikelola
+
+7
+00:00:33,020 --> 00:00:38,080
+di banyak tempat yang berbeda. Nah, di video kali ini, saya akan tunjukkan salah satu solusi
+
+8
+00:00:38,080 --> 00:00:43,340
+untuk membantu proses tersebut. Dengan dental care, alur mulai dari pasien melakukan booking,
+
+9
+00:00:43,760 --> 00:00:48,200
+datang ke klinik, pemeriksaan, transaksi, sampai laporan untuk pemilik klinik,
+
+10
+00:00:48,220 --> 00:00:52,920
+bisa dikelola dalam satu sistem. Kita langsung lihat bagaimana aplikasinya bekerja.
+
+11
+00:00:53,560 --> 00:00:57,900
+Pertama, kita login. Di halaman login, tinggal pilih akun admin yang sudah ada,
+
+12
+00:00:58,300 --> 00:01:02,580
+klik sign in, langsung masuk, tidak perlu ketik password manual tiap kali untuk demo.
+
+13
+00:01:03,000 --> 00:01:07,640
+Di klinik asli, tentu pakai akun masing-masing dokter, perawat, dan front office dengan hak
+
+14
+00:01:07,640 --> 00:01:12,900
+akses yang beda. Masuk ke dashboard, diatas langsung kelihatan 3 angka penting bulan ini.
+
+15
+00:01:13,360 --> 00:01:19,120
+Pendapatan bulan ini 98 juta, antrean aktif 3, dan profit 87 juta.
+
+16
+00:01:19,120 --> 00:01:25,780
+Di bawahnya ada tren pendapatan, bisa ganti 7 hari, 14 hari, 30 hari, kurvanya naik
+
+17
+00:01:25,780 --> 00:01:31,320
+di tanggal 26 dan 30, jadi pemilik langsung tahu hari ramainya kapan, tanpa buka eksel.
+
+18
+00:01:32,200 --> 00:01:37,020
+Scroll sedikit, ada demografi pasian, appointment hari ini, dan leaderboard doktor.
+
+19
+00:01:37,380 --> 00:01:42,100
+Jadi dalam satu layar ketauan pasian paling banyak usia berapa, siapa yang antre hari ini,
+
+20
+00:01:42,380 --> 00:01:47,020
+dan doktor dengan performa terbaik, ini yang bikin keputusan jadi cepat, bukan tebak-tebakan.
+
+21
+00:01:47,580 --> 00:01:52,960
+Masuk ke data pasian, di sini semua data pasian tercatat rapi, ada 10 data dalam satu halaman,
+
+22
+00:01:53,300 --> 00:01:58,240
+ada kolom cari, ketik city, langsung ketemu siti rahayu. Klik namanya bisa buka detail,
+
+23
+00:01:58,620 --> 00:02:02,920
+ada tombol tambah pasian kalau ada pasian baru, tidak ada lagi buku pasian yang hilang
+
+24
+00:02:02,920 --> 00:02:07,720
+atau tulis antangan yang susah dibaca. Lanjut ke appointment, ini kalender jatwalnya,
+
+25
+00:02:08,020 --> 00:02:12,160
+diatas ada pilihan today, month, week, day, dan pilih doktor.
+
+26
+00:02:12,160 --> 00:02:18,040
+Di bawahnya daftar booking, ada 50 booking tercatat, bisa lihat bentrok atau tidak dalam satu tampilan.
+
+27
+00:02:18,460 --> 00:02:23,780
+Admin tidak perlu lagi balas chat satu persatu, tanya jatwal kosong, pasian bookingnya sudah masuk otomatis.
+
+28
+00:02:24,320 --> 00:02:28,660
+Buka antrean hari ini. Ada dua tab, antrean aktif, dan riwayat antrean.
+
+29
+00:02:29,000 --> 00:02:32,200
+Di antrean aktif, kelihatan siapa yang sedang menunggu dan pemeriksaan.
+
+30
+00:02:32,480 --> 00:02:35,920
+Ada nama galuh permakasari, siti rahayu, Ahmad Fauzi.
+
+31
+00:02:36,260 --> 00:02:40,540
+Ada tombol panggil dan batal, dan tombol buka rekam medis untuk langsung periksa.
+
+32
+00:02:40,540 --> 00:02:43,700
+Pasian dipanggil tertip, tidak ada lagi rebutan di ruang tunggu.
+
+33
+00:02:44,340 --> 00:02:48,300
+Masuk ketindakan, di sini ada daftar tindakan sebanyak 26 layanan.
+
+34
+00:02:48,620 --> 00:02:51,200
+Ada tab tindakan dan kategori dan kolom cari.
+
+35
+00:02:51,500 --> 00:02:57,240
+Misalnya scaling, tambal, cabut gigi, bleaching, semua sudah ada kode, nama, dan tarifnya.
+
+36
+00:02:57,560 --> 00:03:00,840
+Jadi harga konsisten tidak beda-beda tergantung siapa yang jaga.
+
+37
+00:03:01,300 --> 00:03:07,140
+Buka kondisi gigi, ini master datanya. Ada tujuh kondisi gigi yang bisa ditandai di odontogram nanti.
+
+38
+00:03:07,480 --> 00:03:10,040
+Bisa tambah kondisi baru kalau klinik punya istilah sendiri.
+
+39
+00:03:10,600 --> 00:03:13,880
+Data ini yang bikin odontogram jadi akurat, bukan gambar manual.
+
+40
+00:03:14,560 --> 00:03:21,680
+Lanjut ke obat farmasi. Ada 10 obat tercatat, ada tab obat, kategori, satuan, dan filter semua kategori.
+
+41
+00:03:21,980 --> 00:03:26,080
+Ada kolom cari obat. Stoknya terpantau kalau ada yang menipis sistem kasih tahu,
+
+42
+00:03:26,380 --> 00:03:29,220
+jadi tidak kejadian tiba-tiba obat habis saat pasian butuh.
+
+43
+00:03:29,700 --> 00:03:32,040
+Buka invoice, semua tagihan ada di sini.
+
+44
+00:03:32,400 --> 00:03:37,240
+Ada nomor ENV 0001 sampai 10. Ada status dan pencarian.
+
+45
+00:03:37,240 --> 00:03:41,340
+Klik salah satu invoice bisa lihat detailnya. Semua transaksi tercatat,
+
+46
+00:03:41,440 --> 00:03:44,180
+jadi laporan keuangan rapi dan bisa dipertanggung jawabkan.
+
+47
+00:03:44,740 --> 00:03:47,820
+Masuk ke komisi dokter. Ini yang ditunggu pemilik klinik.
+
+48
+00:03:48,080 --> 00:03:52,920
+Di atas ada ringkasan total kotor, total potongan, profit, total komisi dibayar,
+
+49
+00:03:53,220 --> 00:03:55,120
+pendapatan admin, dan total obat.
+
+50
+00:03:55,480 --> 00:03:58,280
+Dibawanya detail komisi per invoice. Ada 10 data.
+
+51
+00:03:58,660 --> 00:04:03,140
+Komisi kehitung otomatis dari tindakan yang dikerjakan, transparan untuk dokter dan admin.
+
+52
+00:04:03,860 --> 00:04:08,700
+Lihat recap staff. Ada 9 data kehadiran. Bisa tambah kehadiran dan ganti bulan.
+
+53
+00:04:08,920 --> 00:04:13,300
+Jadi absensi dan kinerja staff tidak lagi di kertas terpisah. Semua di satu tempat.
+
+54
+00:04:13,860 --> 00:04:17,780
+Check management dokter. Ada 3 dokter terdaftar. Bisa tambah dokter baru.
+
+55
+00:04:18,180 --> 00:04:21,580
+Begitu juga untuk perawat dan front office. Masing-masing punya menu sendiri.
+
+56
+00:04:21,960 --> 00:04:26,340
+Jadi hak aksesnya jelas. Perawat tidak bisa buka laporan keuangan kalau tidak diberi akses.
+
+57
+00:04:27,060 --> 00:04:30,260
+Masuk ke pengaturan. Ada dua tab. Profil dan lisensi.
+
+58
+00:04:30,260 --> 00:04:33,220
+Di profil bisa ganti nama klinik, tagline, email,
+
+59
+00:04:33,600 --> 00:04:37,100
+telefon, whatsapp, alamat, bahkan upload logo dan feviken.
+
+60
+00:04:37,620 --> 00:04:39,920
+Matakuang sudah rupiah, jam praktik bisa diatur.
+
+61
+00:04:40,320 --> 00:04:43,700
+Di sebelah kanan ada tautan media sosial yang akan tampil di landing page,
+
+62
+00:04:44,000 --> 00:04:45,480
+jadi sekali isi langsung synchron.
+
+63
+00:04:46,100 --> 00:04:49,180
+Sekarang yang paling disukai pemilik klinik, home page editor.
+
+64
+00:04:49,620 --> 00:04:54,320
+Ini editor visual untuk website publik. Scrollnya panjang karena semua section bisa diedit.
+
+65
+00:04:54,700 --> 00:04:58,020
+Di atas ada hero, tulisannya senyum sehat dan indah dimulai di sini.
+
+66
+00:04:58,020 --> 00:05:02,200
+Ini untuk kesan pertama dan tombol booking sekarang biar pasian langsung klik.
+
+67
+00:05:02,620 --> 00:05:05,840
+Di bawahnya ada tentang, merawat senyum anda dengan sepenuh hati.
+
+68
+00:05:06,120 --> 00:05:10,800
+Ini untuk bangun kepercayaan. Lalu layanan unggulan, ada pemeriksaan dan pembersihan,
+
+69
+00:05:11,160 --> 00:05:13,980
+penambalan, cabut gigi, perawatan seluran akar,
+
+70
+00:05:14,320 --> 00:05:16,400
+masing-masing bisa diganti foto dan deskripsinya.
+
+71
+00:05:16,800 --> 00:05:20,020
+Tujuannya biar pasian paham klinik bisa apa saja sebelum datang.
+
+72
+00:05:20,320 --> 00:05:25,180
+Ada FAQ, CTA siap untuk senyum yang lebih sehat dan form buat janji temu online.
+
+73
+00:05:25,180 --> 00:05:28,440
+Semua ada tombol simpan per-section, jadi editnya aman.
+
+74
+00:05:29,020 --> 00:05:31,100
+Terakhir lihat landing page yang dilihat pasian.
+
+75
+00:05:31,460 --> 00:05:34,860
+Tampilannya sama persis dengan yang dieditor tadi, tapi versi publik.
+
+76
+00:05:35,120 --> 00:05:39,140
+Hero langsung ajak booking, section layanan lengkap sampai pemutihan dan bagel,
+
+77
+00:05:39,420 --> 00:05:42,720
+FAQ bisa dikrik, dan di bawah ada form buat janji temu online
+
+78
+00:05:42,720 --> 00:05:46,260
+dengan field nama, telefon, tanggal, jam dan keluhan.
+
+79
+00:05:46,640 --> 00:05:49,860
+Pasian isi di hape, langsung masuk jadi appointment di dashboard tadi.
+
+80
+00:05:50,200 --> 00:05:51,600
+Tidak perlu admin input ulang.
+
+81
+00:05:52,180 --> 00:05:54,520
+Itu semua fitur dari login sampai landing page.
+
+82
+00:05:54,520 --> 00:05:58,400
+Kalau klinik mau operasionalnya lebih rapi dan terintegrasi dalam satu sistem
+
+83
+00:05:58,400 --> 00:06:00,020
+dental care sudah siap pakai.
+
+84
+00:06:00,400 --> 00:06:05,120
+Cek link demo di deskripsi atau chat WhatsApp Nusa website untuk setup dalam 30 menit.
+

@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "AI Studio TTS Batch",
+  "version": "2.0.0",
+  "description": "Impor naskah .txt, lalu generate voice-over massal di Google AI Studio dan unduh tiap potongan dengan nama berurutan. Resumable via side panel.",
+  "permissions": ["sidePanel", "storage", "tabs", "scripting", "downloads"],
+  "host_permissions": ["https://aistudio.google.com/*"],
+  "background": { "service_worker": "background.js" },
+  "action": { "default_title": "AI Studio TTS Batch" },
+  "side_panel": { "default_path": "panel.html" },
+  "content_scripts": [
+    {
+      "matches": ["https://aistudio.google.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": { "128": "icon128.png" }
+}

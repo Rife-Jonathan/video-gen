@@ -1,0 +1,427 @@
+[
+  {
+    "name": "dashboard",
+    "file": "footage-lib/dashboard.webm",
+    "role": "admin",
+    "route": "/dashboard",
+    "feature": "Dashboard analitik",
+    "contentStart": 8.39,
+    "contentEnd": 46.85,
+    "actions": [
+      "stat cards",
+      "chart range 7H/14H/30H",
+      "hover chart",
+      "scroll to demografi + leaderboard"
+    ],
+    "safeStart": 8.39,
+    "usable": 38.46
+  },
+  {
+    "name": "patients-list",
+    "file": "footage-lib/patients-list.webm",
+    "role": "admin",
+    "route": "/patients",
+    "feature": "Manajemen pasien",
+    "contentStart": 8.41,
+    "contentEnd": 36.59,
+    "actions": [
+      "hover",
+      "search/tabs",
+      "slow scroll"
+    ],
+    "safeStart": 8.41,
+    "usable": 28.18
+  },
+  {
+    "name": "patients-detail",
+    "file": "footage-lib/patients-detail.webm",
+    "role": "admin",
+    "route": "/patients/1",
+    "feature": "Detail pasien + tab riwayat kunjungan",
+    "contentStart": 8.51,
+    "contentEnd": 26.29,
+    "actions": [
+      "open row 1",
+      "tab Riwayat Kunjungan",
+      "tab Riwayat Perubahan",
+      "scroll"
+    ],
+    "safeStart": 8.51,
+    "usable": 17.65
+  },
+  {
+    "name": "patients-visits",
+    "file": "footage-lib/patients-visits.webm",
+    "role": "admin",
+    "route": "/patients/1/visits",
+    "feature": "Daftar kunjungan pasien",
+    "contentStart": 8.44,
+    "contentEnd": 25.58,
+    "actions": [
+      "open visits",
+      "hover rows",
+      "open Detail then back",
+      "scroll"
+    ],
+    "safeStart": 8.44,
+    "usable": 17.14
+  },
+  {
+    "name": "appointments",
+    "file": "footage-lib/appointments.webm",
+    "role": "admin",
+    "route": "/appointments",
+    "feature": "Kalender appointment + filter tanggal",
+    "contentStart": 8.37,
+    "contentEnd": 25.51,
+    "actions": [
+      "hover calendar header",
+      "scroll table",
+      "hover rows"
+    ],
+    "safeStart": 8.37,
+    "usable": 17.14
+  },
+  {
+    "name": "queue",
+    "file": "footage-lib/queue.webm",
+    "role": "admin",
+    "route": "/queue",
+    "feature": "Antrean hari ini",
+    "contentStart": 8.34,
+    "contentEnd": 39.44,
+    "actions": [
+      "hover",
+      "search/tabs",
+      "slow scroll"
+    ],
+    "safeStart": 8.34,
+    "usable": 31.1
+  },
+  {
+    "name": "treatments",
+    "file": "footage-lib/treatments.webm",
+    "role": "admin",
+    "route": "/treatments",
+    "feature": "Daftar tindakan & tarif",
+    "contentStart": 9.1,
+    "contentEnd": 37.83,
+    "actions": [
+      "hover",
+      "search/tabs",
+      "slow scroll"
+    ],
+    "safeStart": 9.1,
+    "usable": 28.73
+  },
+  {
+    "name": "promo-codes",
+    "file": "footage-lib/promo-codes.webm",
+    "role": "admin",
+    "route": "/promo-codes",
+    "feature": "Kode promo klinik",
+    "contentStart": 8.54,
+    "contentEnd": 22.6,
+    "actions": [
+      "hover Tambah Promo",
+      "scroll",
+      "hover table area"
+    ],
+    "safeStart": 8.54,
+    "usable": 13.94
+  },
+  {
+    "name": "tooth-conditions",
+    "file": "footage-lib/tooth-conditions.webm",
+    "role": "admin",
+    "route": "/tooth-conditions",
+    "feature": "Master kondisi gigi",
+    "contentStart": 8.36,
+    "contentEnd": 29.79,
+    "actions": [
+      "hover",
+      "search/tabs",
+      "slow scroll"
+    ],
+    "safeStart": 8.36,
+    "usable": 21.32
+  },
+  {
+    "name": "medicines",
+    "file": "footage-lib/medicines.webm",
+    "role": "admin",
+    "route": "/medicines",
+    "feature": "Obat / farmasi + kategori",
+    "contentStart": 8.39,
+    "contentEnd": 24.94,
+    "actions": [
+      "search obat",
+      "hover rows",
+      "scroll",
+      "hover category filter"
+    ],
+    "safeStart": 8.39,
+    "usable": 16.55
+  },
+  {
+    "name": "invoices-list",
+    "file": "footage-lib/invoices-list.webm",
+    "role": "admin",
+    "route": "/invoices",
+    "feature": "Daftar invoice + status bayar",
+    "contentStart": 8.39,
+    "contentEnd": 24.88,
+    "actions": [
+      "hover rows",
+      "scroll",
+      "open first invoice",
+      "back"
+    ],
+    "safeStart": 8.39,
+    "usable": 16.49
+  },
+  {
+    "name": "invoices-detail",
+    "file": "footage-lib/invoices-detail.webm",
+    "role": "admin",
+    "route": "/invoices/1",
+    "feature": "Detail invoice + rincian pembayaran",
+    "contentStart": 8.38,
+    "contentEnd": 24.12,
+    "actions": [
+      "scroll rincian",
+      "hover Cetak PDF",
+      "hover rows"
+    ],
+    "safeStart": 8.38,
+    "usable": 15.66
+  },
+  {
+    "name": "commissions",
+    "file": "footage-lib/commissions.webm",
+    "role": "admin",
+    "route": "/commissions",
+    "feature": "Laporan komisi dokter",
+    "contentStart": 8.58,
+    "contentEnd": 30.27,
+    "actions": [
+      "hover",
+      "search/tabs",
+      "slow scroll"
+    ],
+    "safeStart": 8.58,
+    "usable": 21.69
+  },
+  {
+    "name": "staff-report",
+    "file": "footage-lib/staff-report.webm",
+    "role": "admin",
+    "route": "/staff-report",
+    "feature": "Rekap staff + kehadiran",
+    "contentStart": 8.5,
+    "contentEnd": 23.46,
+    "actions": [
+      "hover month nav",
+      "scroll",
+      "hover table"
+    ],
+    "safeStart": 8.5,
+    "usable": 14.96
+  },
+  {
+    "name": "doctors",
+    "file": "footage-lib/doctors.webm",
+    "role": "admin",
+    "route": "/doctors",
+    "feature": "Manajemen dokter",
+    "contentStart": 8.39,
+    "contentEnd": 29.84,
+    "actions": [
+      "hover",
+      "search/tabs",
+      "slow scroll"
+    ],
+    "safeStart": 8.39,
+    "usable": 21.45
+  },
+  {
+    "name": "nurses",
+    "file": "footage-lib/nurses.webm",
+    "role": "admin",
+    "route": "/nurses",
+    "feature": "Manajemen perawat",
+    "contentStart": 8.46,
+    "contentEnd": 22.11,
+    "actions": [
+      "hover rows",
+      "scroll"
+    ],
+    "safeStart": 8.46,
+    "usable": 13.65
+  },
+  {
+    "name": "front-offices",
+    "file": "footage-lib/front-offices.webm",
+    "role": "admin",
+    "route": "/front-offices",
+    "feature": "Manajemen front office",
+    "contentStart": 8.41,
+    "contentEnd": 20.52,
+    "actions": [
+      "hover rows",
+      "scroll"
+    ],
+    "safeStart": 8.41,
+    "usable": 12.11
+  },
+  {
+    "name": "home-edit",
+    "file": "footage-lib/home-edit.webm",
+    "role": "admin",
+    "route": "/home-edit",
+    "feature": "Editor visual homepage",
+    "contentStart": 8.4,
+    "contentEnd": 53.5,
+    "actions": [
+      "hero",
+      "tentang",
+      "layanan unggulan",
+      "FAQ",
+      "CTA",
+      "form"
+    ],
+    "safeStart": 8.4,
+    "usable": 45.1
+  },
+  {
+    "name": "settings",
+    "file": "footage-lib/settings.webm",
+    "role": "admin",
+    "route": "/settings",
+    "feature": "Pengaturan klinik",
+    "contentStart": 8.36,
+    "contentEnd": 38.62,
+    "actions": [
+      "hover",
+      "search/tabs",
+      "slow scroll"
+    ],
+    "safeStart": 8.36,
+    "usable": 30.12
+  },
+  {
+    "name": "profile",
+    "file": "footage-lib/profile.webm",
+    "role": "admin",
+    "route": "/profile",
+    "feature": "Profil saya + ubah password",
+    "contentStart": 8.42,
+    "contentEnd": 24.62,
+    "actions": [
+      "hover form fields",
+      "scroll",
+      "hover Ubah Password"
+    ],
+    "safeStart": 8.42,
+    "usable": 16.1
+  },
+  {
+    "name": "odontogram",
+    "file": "footage-lib/odontogram.webm",
+    "role": "dokter",
+    "route": "/odontogram/1",
+    "feature": "Odontogram peta gigi interaktif",
+    "contentStart": 8.47,
+    "contentEnd": 21.7,
+    "actions": [
+      "hover teeth svg",
+      "scroll legend",
+      "glide across teeth"
+    ],
+    "safeStart": 8.47,
+    "usable": 13.23
+  },
+  {
+    "name": "doctor-commissions",
+    "file": "footage-lib/doctor-commissions.webm",
+    "role": "dokter",
+    "route": "/doctor/my-commissions",
+    "feature": "Komisi dokter (role dokter)",
+    "contentStart": 8.41,
+    "contentEnd": 22.96,
+    "actions": [
+      "wait Rp figures",
+      "scroll",
+      "hover rows"
+    ],
+    "safeStart": 8.41,
+    "usable": 14.55
+  },
+  {
+    "name": "reserve-appointment",
+    "file": "footage-lib/reserve-appointment.webm",
+    "role": "admin",
+    "route": "/reserve-appointment",
+    "feature": "Form reservasi appointment publik",
+    "contentStart": 8.37,
+    "contentEnd": 21.47,
+    "actions": [
+      "hover form fields",
+      "type nama demo",
+      "scroll jam slots",
+      "hover Konfirmasi"
+    ],
+    "safeStart": 8.37,
+    "usable": 13.1
+  },
+  {
+    "name": "examination",
+    "file": "footage-lib/examination.webm",
+    "role": "admin",
+    "route": "/examination/1",
+    "feature": "Pemeriksaan SOAP + ICD-10",
+    "contentStart": 8.53,
+    "contentEnd": 21.5,
+    "actions": [
+      "hover SOAP fields",
+      "scroll",
+      "hover ICD selector"
+    ],
+    "safeStart": 8.53,
+    "usable": 12.97
+  },
+  {
+    "name": "login",
+    "file": "footage-lib/login.webm",
+    "role": "admin",
+    "route": "/login",
+    "feature": "Halaman login + quick login per peran",
+    "contentStart": 1.82,
+    "contentEnd": 26.65,
+    "actions": [
+      "hover 3 role cards",
+      "click Admin",
+      "submit",
+      "dashboard appears"
+    ],
+    "safeStart": 1.82,
+    "usable": 24.7
+  },
+  {
+    "name": "landing",
+    "file": "footage-lib/landing.webm",
+    "role": "public",
+    "route": "/",
+    "feature": "Landing page publik klinik",
+    "contentStart": 1.81,
+    "contentEnd": 33.13,
+    "actions": [
+      "hero",
+      "layanan",
+      "FAQ",
+      "form janji temu"
+    ],
+    "safeStart": 1.81,
+    "usable": 31.32
+  }
+]

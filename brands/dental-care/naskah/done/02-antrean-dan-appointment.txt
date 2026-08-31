@@ -1,0 +1,21 @@
+Kalau kamu punya klinik gigi, salah satu hal yang paling sering bikin ribut di meja depan adalah urusan jadwal dan antrean. Siapa yang datang duluan, siapa yang sudah janjian, dan siapa yang cuma datang tanpa konfirmasi. Di video ini saya akan tunjukkan bagaimana DentalCare Studio menangani bagian itu, dari pasien membuat janji sampai namanya dipanggil masuk ruang periksa.
+
+Kita mulai dari sisi pasien. Di website klinik ada formulir reservasi. Pasien mengisi nama, memilih dokter, memilih tanggal, dan memilih jam yang masih kosong. Slot yang sudah terisi tidak ditampilkan, jadi pasien tidak bisa memilih jam yang sebenarnya sudah penuh.
+
+Begitu formulir dikirim, jadwalnya masuk ke menu Appointment di sisi admin. Di sini seluruh jadwal ditampilkan dalam bentuk kalender. Admin bisa berpindah antar tanggal, dan memfilter tampilan berdasarkan dokter tertentu. Jadi kalau ada dua dokter praktik di hari yang sama, jadwal masing-masing bisa dilihat terpisah, tidak menumpuk jadi satu.
+
+Admin juga bisa menambah appointment langsung dari sini, misalnya untuk pasien yang menelepon. Prosesnya sama: pilih pasien, pilih dokter, pilih tanggal dan jam. Bedanya cuma siapa yang mengisi.
+
+Sekarang kita lanjut ke hari pelaksanaan. Pasien datang, dan front office membuka menu Antrean. Di layar ini terlihat siapa yang sedang menunggu, siapa yang sedang diperiksa, dan berapa nomor urutnya. Setiap baris punya tombol panggil, jadi front office tinggal menekan tombol itu ketika giliran pasien tiba.
+
+Statusnya berubah mengikuti kondisi nyata di klinik. Menunggu, sedang diperiksa, selesai. Karena statusnya terlihat di layar, front office tidak perlu bolak-balik ke ruang praktik hanya untuk memastikan dokternya sudah selesai atau belum.
+
+Ada juga tab riwayat antrean. Antrean hari kemarin dan hari-hari sebelumnya tetap tersimpan, tidak hilang begitu hari berganti. Jadi kalau ada pasien yang menanyakan kapan terakhir dia datang, catatannya bisa dibuka lagi.
+
+Antrean ini juga terhubung dengan data pasien. Dari daftar pasien, riwayat kunjungan setiap orang bisa dilihat per tanggal. Siapa dokternya, tindakan apa yang dikerjakan, dan kapan kunjungan berikutnya.
+
+Kalau kita lihat keseluruhannya, tiga hal tadi sebenarnya satu rangkaian. Pasien membuat janji dari website, jadwalnya muncul di kalender admin, lalu namanya masuk ke antrean di hari kedatangan. Tidak ada data yang diketik ulang di antara ketiganya.
+
+Buat klinik yang sehari melayani belasan sampai puluhan pasien, bagian inilah yang paling terasa bedanya. Meja depan tidak lagi mengandalkan buku tulis dan ingatan.
+
+Kalau kamu ingin mencoba sendiri bagaimana alur ini bekerja, versi demonya bisa diakses lewat tautan di deskripsi.

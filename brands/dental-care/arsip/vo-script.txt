@@ -1,0 +1,58 @@
+NASKAH VO - DENTALCARE STUDIO (60 DETIK)
+Generate 6 kali terpisah. Simpan sebagai s1.wav ... s6.wav di folder video-gen\vo\
+
+============================================================
+ISI FIELD "SCENE" (sama untuk semua 6):
+
+Ruang kerja klinik yang tenang dan profesional.
+
+============================================================
+ISI FIELD "SAMPLE CONTEXT" (sama untuk semua 6):
+
+Tenang, jelas, dan meyakinkan. Nada ramah dan informatif, seperti menjelaskan produk ke sesama pemilik klinik. Tempo sedang, tidak terburu-buru.
+
+============================================================
+ISI FIELD "TEXT" - paste satu per satu, jangan sekaligus
+============================================================
+
+
+=== S1 -> simpan s1.wav ===
+
+Klinik gigi masih catat rekam medis di kertas? Ini DentalCare Studio. Tujuh belas modul, satu aplikasi.
+
+
+=== S2 -> simpan s2.wav ===
+
+Dari pendaftaran front office, antrean pasien, sampai invoice, semuanya nyambung. Tidak ada lagi buku antrean dan Excel terpisah.
+
+
+=== S3 -> simpan s3.wav ===
+
+Yang paling menonjol: odontogram digital interaktif. Klik giginya, langsung tercatat di rekam medis pasien. Riwayat perawatan tersimpan rapi per gigi.
+
+
+=== S4 -> simpan s4.wav ===
+
+Komisi dokter dihitung otomatis. Rekap kinerja staff, stok farmasi, kode promo, semua ada di dashboard analitik. Tidak perlu hitung manual tiap akhir bulan.
+
+
+=== S5 -> simpan s5.wav ===
+
+Dan sudah disiapkan untuk terhubung SATUSEHAT Kemenkes. Klinik bisa jalan dalam tiga puluh menit setelah dipasang.
+
+
+=== S6 -> simpan s6.wav ===
+
+Paket hosted, satu juta dua ratus lima puluh ribu untuk sepuluh klinik pertama. Coba demo-nya, tautan di deskripsi.
+
+
+============================================================
+CATATAN
+
+- Baris "=== S1 ... ===" JANGAN ikut di-paste. Hanya kalimat di bawahnya.
+- Tanda hubung dan tanda kurung sudah dihilangkan supaya tidak dibaca aneh oleh TTS.
+- Angka sudah ditulis sebagai kata: "Tujuh belas", "tiga puluh", "satu juta dua ratus lima puluh ribu".
+- Kalau ada kata yang dibaca salah (misalnya "odontogram" atau "SATUSEHAT"), kabari.
+  Bisa diakali dengan menulis ulang secara fonetis, contoh: "satu sehat".
+- Suara Aoede yang kamu pilih itu Breezy / Middle pitch. Kalau hasilnya terlalu ringan
+  untuk video produk, coba suara lain lalu bandingkan pakai satu scene saja dulu.

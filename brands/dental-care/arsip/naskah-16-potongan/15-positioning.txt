@@ -1,0 +1,1 @@
+Tujuan aplikasi ini bukan untuk menggantikan penilaian klinis dokter. Aplikasi ini dibuat untuk membereskan sisi administrasi dan operasional, supaya dokter dan perawat bisa lebih fokus merawat pasien.

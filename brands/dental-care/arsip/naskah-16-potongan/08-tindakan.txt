@@ -1,0 +1,1 @@
+Setelah pemeriksaan selesai, berikutnya dokter menentukan tindakan. Di menu Tindakan sudah ada daftar layanan lengkap dengan kode, kategori, tarif, dan perkiraan durasinya. Dokter tinggal memilih dari daftar itu, tidak mengetik ulang. Jadi harga tindakan konsisten, tidak berubah-ubah tergantung siapa yang jaga hari itu.

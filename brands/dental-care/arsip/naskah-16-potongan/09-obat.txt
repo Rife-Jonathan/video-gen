@@ -1,0 +1,1 @@
+Kalau pasien butuh resep, prosesnya lanjut ke bagian farmasi. Di menu Obat, semua stok tercatat lengkap dengan kategori, satuan, dan harganya. Sistem juga menandai obat yang stoknya menipis. Jadi tidak ada lagi kejadian obat habis justru saat pasien membutuhkannya.

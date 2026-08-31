@@ -1,0 +1,1 @@
+Setelah pasien membuat appointment, berikutnya pasien datang ke klinik. Di menu Antrean, front office bisa melihat siapa yang sedang menunggu dan siapa yang sedang diperiksa, lengkap dengan tombol panggil. Ada juga tab riwayat antrean, jadi kunjungan hari-hari sebelumnya tetap tercatat. Jadi pasien dipanggil sesuai urutan, dan tidak ada lagi salah paham soal siapa yang duluan.

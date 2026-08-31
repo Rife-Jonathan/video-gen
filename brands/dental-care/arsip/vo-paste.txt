@@ -1,0 +1,11 @@
+Klinik gigi masih catat rekam medis di kertas? Ini DentalCare Studio. Tujuh belas modul, satu aplikasi.
+
+Dari pendaftaran front office, antrean pasien, sampai invoice, semuanya nyambung. Tidak ada lagi buku antrean dan Excel terpisah.
+
+Yang paling menonjol: odontogram digital interaktif. Klik giginya, langsung tercatat di rekam medis pasien. Riwayat perawatan tersimpan rapi per gigi.
+
+Komisi dokter dihitung otomatis. Rekap kinerja staff, stok farmasi, kode promo, semua ada di dashboard analitik. Tidak perlu hitung manual tiap akhir bulan.
+
+Dan sudah disiapkan untuk terhubung SATUSEHAT Kemenkes. Klinik bisa jalan dalam tiga puluh menit setelah dipasang.
+
+Paket hosted, satu juta dua ratus lima puluh ribu untuk sepuluh klinik pertama. Coba demo-nya, tautan di deskripsi.

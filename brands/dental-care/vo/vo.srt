@@ -1,0 +1,68 @@
+1
+00:00:00,000 --> 00:00:02,700
+Klinik Gigi masih catat rekam medis di kertas.
+
+2
+00:00:03,240 --> 00:00:04,760
+Ini Dental Care Studio.
+
+3
+00:00:05,340 --> 00:00:07,340
+17 modul, satu aplikasi.
+
+4
+00:00:07,980 --> 00:00:12,080
+Dari pendaftaran front office, antrian pasian, sampai invoice.
+
+5
+00:00:12,720 --> 00:00:13,560
+Semuanya nyambung.
+
+6
+00:00:13,960 --> 00:00:16,500
+Tidak ada lagi buku antrian dan Excel terpisah.
+
+7
+00:00:16,860 --> 00:00:19,940
+Yang paling menonjol, odontogram digital interactive.
+
+8
+00:00:20,440 --> 00:00:23,800
+Klik giginya, langsung tercatat di rekam medis pasian.
+
+9
+00:00:24,240 --> 00:00:26,860
+Riwayat perawatan tersimpan rapi per gigi.
+
+10
+00:00:27,140 --> 00:00:29,080
+Komisi dokter di hitung otomatis.
+
+11
+00:00:29,080 --> 00:00:32,680
+Rekap kinerja staff, stok farmasi, kode promo.
+
+12
+00:00:33,220 --> 00:00:34,960
+Semua ada di dashboard analitik.
+
+13
+00:00:35,240 --> 00:00:37,280
+Tidak perlu hitung manual tiap akhir bulan.
+
+14
+00:00:37,780 --> 00:00:41,020
+Dan sudah disiapkan untuk terhubung satu sehat kemences.
+
+15
+00:00:41,580 --> 00:00:44,460
+Klinik bisa jalan dalam 30 menit setelah dipasang.
+
+16
+00:00:44,820 --> 00:00:48,800
+Paket hosted, 1.250.000 untuk sepuluh klinik pertama.
+
+17
+00:00:49,440 --> 00:00:51,680
+Coba demonya, tautan di deskripsi.
+

@@ -1,0 +1,31 @@
+Di video kali ini saya akan memperkenalkan DentalCare Studio, aplikasi yang dibuat untuk membantu klinik gigi mengelola operasional hariannya dalam satu sistem.
+
+Sebagai dokter gigi atau pemilik klinik, tentu fokus utama adalah merawat pasien sebaik mungkin. Tapi di balik itu, masih ada banyak hal yang juga harus dikelola, mulai dari jadwal dan antrean, rekam medis, stok obat, tagihan, sampai komisi dokter dan laporan bulanan.
+
+Semakin ramai kliniknya, proses seperti ini semakin rumit kalau masih dikelola di tempat yang berbeda-beda. Buku antrean di meja depan, rekam medis di map, tarif di kepala masing-masing, dan rekap komisi baru dihitung di akhir bulan.
+
+Nah, di video kali ini saya akan tunjukkan salah satu solusi untuk membantu proses tersebut. Dengan DentalCare Studio, alur mulai dari pasien membuat janji, datang ke klinik, diperiksa, sampai laporan untuk pemilik, bisa dikelola dalam satu sistem. Kita langsung lihat bagaimana aplikasinya bekerja.
+
+Sekarang kita masuk ke titik awal semuanya: pasien membuat janji. Di menu Appointment, admin bisa melihat seluruh jadwal dalam bentuk kalender, dan memfilternya berdasarkan dokter. Pasien juga bisa booking sendiri dari website klinik, dan jadwalnya langsung masuk ke kalender ini. Jadi ketika ada pasien yang ingin membuat janji, admin bisa langsung melihat slot yang kosong dan mengurangi risiko jadwal bentrok.
+
+Setelah pasien membuat appointment, berikutnya pasien datang ke klinik. Di menu Antrean, front office bisa melihat siapa yang sedang menunggu dan siapa yang sedang diperiksa, lengkap dengan tombol panggil. Ada juga tab riwayat antrean, jadi kunjungan hari-hari sebelumnya tetap tercatat. Jadi pasien dipanggil sesuai urutan, dan tidak ada lagi salah paham soal siapa yang duluan.
+
+Setelah pasien masuk ruang periksa, berikutnya kita ke bagian pemeriksaan. Di sini dokter mengisi catatan klinis dengan format SOAP, dan menandai kondisi gigi di odontogram digital. Odontogramnya interaktif. Setiap gigi punya nomor, dan kondisinya ditandai dengan warna, mulai dari caries, tambalan, sampai gigi yang sudah dicabut. Jadi riwayat perawatan tersimpan rapi per gigi, dan dokter berikutnya yang menangani pasien yang sama langsung tahu apa yang sudah dikerjakan.
+
+Setelah pemeriksaan selesai, berikutnya dokter menentukan tindakan. Di menu Tindakan sudah ada daftar layanan lengkap dengan kode, kategori, tarif, dan perkiraan durasinya. Dokter tinggal memilih dari daftar itu, tidak mengetik ulang. Jadi harga tindakan konsisten, tidak berubah-ubah tergantung siapa yang jaga hari itu.
+
+Kalau pasien butuh resep, prosesnya lanjut ke bagian farmasi. Di menu Obat, semua stok tercatat lengkap dengan kategori, satuan, dan harganya. Sistem juga menandai obat yang stoknya menipis. Jadi tidak ada lagi kejadian obat habis justru saat pasien membutuhkannya.
+
+Setelah pemeriksaan dan tindakan selesai, berikutnya kita masuk ke transaksi. Invoice terbentuk dari tindakan dan obat yang tadi dicatat, jadi tidak ada yang perlu diketik dua kali. Setiap tagihan punya nomor, status pembayaran, dan detail yang bisa dibuka kembali kapan saja. Jadi tidak ada tindakan yang lupa ditagih, dan pemasukan klinik tercatat rapi.
+
+Data transaksi tadi tidak berhenti sampai invoice saja. Di menu Komisi Dokter, sistem menghitung komisi otomatis dari tindakan yang sudah dikerjakan, dan menampilkan pendapatan kotor, potongan, sampai profit bersihnya. Rinciannya bisa dilihat per invoice, per dokter, per periode. Jadi tidak perlu lagi menghitung manual di akhir bulan, dan angkanya transparan untuk dokter maupun pemilik klinik.
+
+Selain mengelola pasien, tentu klinik juga punya tim yang perlu dikelola. Ada menu Rekap Staff untuk kehadiran dan kinerja, serta menu terpisah untuk dokter, perawat, dan front office dengan hak akses masing-masing. Semua ringkasannya bermuara di dashboard: pendapatan bulan ini, antrean aktif, pasien baru, dan tren pendapatan harian. Jadi pemilik klinik bisa melihat kondisi kliniknya dalam satu layar, tanpa membuka spreadsheet.
+
+Terakhir, satu bagian yang biasanya paling disukai pemilik klinik. Di menu Homepage Editor, tampilan website publik klinik bisa diubah langsung: bagian hero, profil klinik, daftar layanan, sampai formulir janji temu. Setiap bagian punya tombol simpan sendiri, dan hasilnya langsung tampil di website yang dilihat pasien. Jadi klinik tidak perlu menghubungi pembuat website hanya untuk mengganti satu foto atau satu harga.
+
+Kalau kita lihat keseluruhan prosesnya, DentalCare Studio membantu menghubungkan proses mulai dari pasien membuat janji, sampai laporan yang dibaca pemilik klinik, di dalam satu sistem yang sama.
+
+Tujuan aplikasi ini bukan untuk menggantikan penilaian klinis dokter. Aplikasi ini dibuat untuk membereskan sisi administrasi dan operasional, supaya dokter dan perawat bisa lebih fokus merawat pasien.
+
+Kalau ingin melihat langsung bagaimana DentalCare Studio bekerja, kamu bisa mencoba versi demonya melalui tautan di deskripsi.
