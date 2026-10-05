@@ -37,64 +37,42 @@ tr = json.load(open(TRANSCRIPT, encoding="utf8"))
 #            the narration is pointing at something specific.
 # --------------------------------------------------------------------------
 EDIT = [
-    # ---------- OPENING: sped-up tour, cut on words ----------
-    (0.00, 9.82, "landing", 3.0, 0.5, None),
+    # ---------- OPENING: 0-67.60 — fast tour, synced to new TTS word timings ----------
+    (0.00, 11.86, "landing", 3.0, 0.0, None),  # intro
+    (11.86, 22.52, "examination", 1.0, 0.0, None),  # "Sebagai dokter gigi..."
+    # list "jadwal dan antrean, rekam medis, stok obat, tagihan, komisi, laporan" — per-item fast cuts
+    (22.52, 23.64, "appointments", 4.0, 0.0, None),  # "jadwal"
+    (23.64, 24.64, "queue", 4.0, 0.0, None),  # "antrean"
+    (24.64, 25.70, "patients-detail", 4.0, 0.0, None),  # "rekam medis"
+    (25.70, 26.34, "medicines", 4.0, 0.0, None),  # "stok obat"
+    (26.34, 27.62, "invoices-list", 4.0, 0.0, None),  # "Tagihan"
+    (27.62, 28.56, "commissions", 4.0, 0.0, None),  # "komisi"
+    (28.56, 30.78, "staff-report", 4.0, 0.0, None),  # "laporan bulanan"
+    # problem — scattered management
+    (30.78, 46.48, "patients-list", 1.0, 0.0, None),
+    # promise — workflow chain sped up
+    (46.48, 55.00, "dashboard", 2.0, 0.0, None),
+    (55.00, 67.60, "landing", 2.0, 0.0, None),
 
-    # empathy — the clinical work itself
-    (9.82, 14.48, "examination", 2.0, 0.5, None),
-    (14.48, 19.12, "odontogram", 2.0, 0.5, None),
-
-    # the eight things a clinic juggles — one screen per spoken item
-    (19.12, 20.72, "appointments", 3.0, 1.0, None),      # "jadwal pasien"
-    (20.72, 21.50, "queue", 4.0, 1.0, None),             # "antrean"
-    (21.50, 22.46, "patients-detail", 4.0, 1.0, None),   # "rekam medis"
-    (22.46, 23.24, "treatments", 4.0, 1.0, None),        # "tindakan"
-    (23.24, 24.16, "medicines", 4.0, 1.0, None),         # "stok obat"
-    (24.16, 25.04, "invoices-list", 4.0, 1.0, None),     # "transaksi"
-    (25.04, 26.02, "commissions", 4.0, 1.0, None),       # "komisi dokter"
-    (26.02, 27.78, "staff-report", 3.0, 1.0, None),      # "laporan klinik"
-
-    # problem — "dikelola di banyak tempat yang berbeda": many places, fast
-    (27.78, 29.08, "patients-list", 4.0, 1.0, None),
-    (29.08, 30.38, "tooth-conditions", 4.0, 1.0, None),
-    (30.38, 31.68, "doctors", 4.0, 1.0, None),
-    (31.68, 32.98, "nurses", 4.0, 1.0, None),
-    (32.98, 34.28, "front-offices", 4.0, 1.0, None),
-    (34.28, 35.58, "profile", 4.0, 1.0, None),
-    (35.58, 36.88, "doctor-commissions", 4.0, 1.0, None),
-    (36.88, 38.08, "reserve-appointment", 4.0, 1.0, None),
-
-    # promise — the workflow chain, cut on each stage the narration names
-    (38.08, 40.22, "settings", 3.0, 1.0, None),
-    (40.22, 42.92, "dashboard", 3.0, 1.0, None),         # "Dengan DentalCare"
-    (42.92, 43.76, "reserve-appointment", 3.0, 4.0, None),  # "booking"
-    (43.76, 44.74, "queue", 3.0, 4.0, None),             # "datang ke klinik"
-    (44.74, 45.66, "examination", 3.0, 4.0, None),       # "pemeriksaan"
-    (45.66, 46.46, "invoices-list", 3.0, 4.0, None),     # "transaksi"
-    (46.46, 48.22, "commissions", 3.0, 4.0, None),       # "laporan untuk pemilik"
-
-    # settle to real time on "kita langsung lihat bagaimana aplikasinya bekerja"
-    (48.22, 53.56, "dashboard", 1.0, 6.0, None),
-
-    # ---------- WALKTHROUGH: real time ----------
-    (53.56, 72.90, "login", 1.0, 0.0, None),
-    (72.90, 107.58, "dashboard", 1.0, 0.0, ((1.18, "22% 26%"), 74.0, 6.0)),
-    (107.58, 127.72, "patients-list", 1.0, 0.0, None),
-    (127.72, 144.32, "appointments", 1.0, 0.0, None),
-    (144.32, 164.34, "queue", 1.0, 0.0, None),
-    (164.34, 181.30, "treatments", 1.0, 0.0, None),
-    (181.30, 194.56, "tooth-conditions", 1.0, 0.0, None),
-    (194.56, 209.70, "medicines", 1.0, 0.0, None),
-    (209.70, 224.74, "invoices-list", 1.0, 0.0, None),
-    (224.74, 243.86, "commissions", 1.0, 0.0, ((1.20, "26% 40%"), 238.0, 5.0)),
-    (243.86, 253.86, "staff-report", 1.0, 0.0, None),
-    (253.86, 258.60, "doctors", 1.0, 0.0, None),
-    (258.60, 262.60, "nurses", 1.0, 0.0, None),
-    (262.60, 267.06, "front-offices", 1.0, 0.0, None),
-    (267.06, 286.10, "settings", 1.0, 0.0, None),
-    (286.10, 329.02, "home-edit", 1.0, 0.0, None),
-    (329.02, 352.18, "landing", 1.0, 0.0, None),
-    (352.18, FPS_DUR, "dashboard", 1.0, 20.0, None),
+    # ---------- WALKTHROUGH: real time, per-paragraph ----------
+    (67.60, 86.23, "appointments", 1.0, 0.0, ((1.18, "22% 26%"), 75.0, 6.0)),  # appointment 18.63s
+    (86.23, 96.64, "reserve-appointment", 1.0, 0.0, None),  # appointment continuation 10.41s
+    (96.64, 122.14, "queue", 1.0, 0.0, None),  # antrean 25.50s
+    (122.14, 136.01, "examination", 1.0, 0.0, None),  # pemeriksaan part1 13.87s
+    (136.01, 151.94, "odontogram", 1.0, 0.0, None),  # pemeriksaan part2 15.93s
+    (151.94, 155.36, "tooth-conditions", 1.0, 0.0, None),  # pemeriksaan part3 3.42s
+    (155.36, 175.92, "treatments", 1.0, 0.0, None),  # tindakan 20.56s
+    (175.92, 196.90, "medicines", 0.85, 0.0, None),  # obat 20.98s at 0.85x to fit 18.22 usable
+    (196.90, 214.86, "invoices-list", 1.0, 0.0, None),  # invoice part1 17.96s
+    (214.86, 222.66, "invoices-detail", 1.0, 0.0, None),  # invoice part2 7.80s
+    (222.66, 244.99, "commissions", 1.0, 0.0, ((1.20, "26% 40%"), 230.0, 5.0)),  # komisi part1 22.33s
+    (244.99, 249.88, "doctor-commissions", 1.0, 0.0, None),  # komisi part2 4.89s
+    (249.88, 266.72, "staff-report", 1.0, 0.0, None),  # staff part1 16.84s
+    (266.72, 279.24, "doctors", 1.0, 0.0, None),  # staff part2 12.52s
+    (279.24, 311.08, "home-edit", 1.0, 0.0, None),  # homepage 31.84s
+    (311.08, 324.38, "dashboard", 1.0, 0.0, None),  # recap 13.30s
+    (324.38, 338.08, "settings", 1.0, 0.0, None),  # positioning 13.70s
+    (338.08, FPS_DUR, "landing", 1.0, 0.0, None),  # cta 8.50s to end
 ]
 
 # --------------------------------------------------------------------------
@@ -121,6 +99,22 @@ CAPTION_FIX = {
     "pasian": "pasien",
     "doktor": "dokter",
     "antrian": "antrean",
+    "entrean": "antrean",
+    "Antrean": "Antrean",
+    "entrian": "antrean",
+    "edis,": "medis,",
+    "edis di": "medis di",
+    "halu yang": "hal yang",
+    "taris di": "tarif di",
+    "bentrap": "bentrok",
+    "tepriwayat": "riwayat",
+    "fondisi": "kondisi",
+    "karyes": "karies",
+    "lekab": "rekap",
+    "lekap staff": "rekap staff",
+    "kinderja": "kinerja",
+    "anterian": "antrean",
+    "trend pendapatan": "tren pendapatan",
     "eksel": "Excel",
     "recap": "rekap",
     "telefon": "telepon",

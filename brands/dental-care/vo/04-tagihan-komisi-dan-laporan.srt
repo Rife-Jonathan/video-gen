@@ -1,0 +1,244 @@
+1
+00:00:00,000 --> 00:00:04,360
+Buat pemilik klinik, pertanyaan yang paling sering muncul di akhir bulan biasanya cema dua.
+
+2
+00:00:04,820 --> 00:00:07,460
+Bulan ini masuk berapa dan komisi dokturnya berapa?
+
+3
+00:00:08,360 --> 00:00:12,420
+Masalahnya, kalau tindakan dicatak di satu tempat dan pembayaran di tempat lain,
+
+4
+00:00:12,840 --> 00:00:15,560
+jawabannya baru ketemu setelah menghitung manual berjam-jam.
+
+5
+00:00:16,540 --> 00:00:21,340
+Di video ini, saya akan tunjukkan bagian keuangan dan laporan di Dental Care Studio.
+
+6
+00:00:22,020 --> 00:00:23,100
+Kita mulai dari invoice.
+
+7
+00:00:23,620 --> 00:00:25,620
+Setelah pemeriksaan dan tindakan selesai,
+
+8
+00:00:25,860 --> 00:00:29,220
+tagihan terbentuk dari tindakan dan obat yang tadi dicatat oleh doktor.
+
+9
+00:00:29,220 --> 00:00:31,380
+Jadi tidak ada yang diketik dua kali,
+
+10
+00:00:31,680 --> 00:00:35,560
+dan tidak ada tindakan yang lolos dari tagihan hanya karena lupa dicatat ulang.
+
+11
+00:00:36,940 --> 00:00:40,240
+Di daftar invoice, setiap tagihan punya nomornya sendiri,
+
+12
+00:00:40,760 --> 00:00:43,320
+nama pasien, tanggal, dan status pembayaran.
+
+13
+00:00:43,960 --> 00:00:45,260
+Statusnya bisa difilter,
+
+14
+00:00:45,660 --> 00:00:48,460
+jadi tagihan yang belum lunas bisa dipisahkan dari yang sudah.
+
+15
+00:00:49,060 --> 00:00:52,240
+Kalau salah satu invoice dibuka, rinciannya terlihat lengkap.
+
+16
+00:00:52,700 --> 00:00:54,320
+Tindakan apa saja yang ditagihkan,
+
+17
+00:00:54,720 --> 00:00:55,840
+obat apa yang diberikan,
+
+18
+00:00:56,300 --> 00:00:58,860
+berapa totalnya, dan pembayarannya sudah masuk berapa.
+
+19
+00:00:59,220 --> 00:01:01,460
+Semuanya bisa dibuka kembali kapan saja,
+
+20
+00:01:01,760 --> 00:01:03,740
+tidak hilang setelah transaksinya selesai.
+
+21
+00:01:05,600 --> 00:01:07,960
+Sekarang bagian yang biasanya paling merepotkan,
+
+22
+00:01:08,320 --> 00:01:09,040
+komisi doktor.
+
+23
+00:01:09,700 --> 00:01:10,900
+Di menu komisi doktor,
+
+24
+00:01:11,120 --> 00:01:13,740
+sistem menghitung komisi dari tindakan yang sudah dikerjakan,
+
+25
+00:01:14,020 --> 00:01:15,780
+lalu menempilkan pendapatan kotor,
+
+26
+00:01:16,100 --> 00:01:17,700
+potongan, dan profit bersihnya.
+
+27
+00:01:18,740 --> 00:01:21,340
+Rinciannya bisa dilihat per doktor dan per periode.
+
+28
+00:01:21,780 --> 00:01:24,260
+Jadi kalau ada doktor yang menanyakan angkanya dari mana,
+
+29
+00:01:24,640 --> 00:01:25,720
+tinggal buka rinciannya,
+
+30
+00:01:26,020 --> 00:01:28,360
+terlihat invoice mana saja yang menyumbang ke angka itu.
+
+31
+00:01:29,120 --> 00:01:31,980
+Ini yang membuat pembagian komisi jadi lebih enak dibicarakan,
+
+32
+00:01:32,340 --> 00:01:34,400
+karena kedua pihak melihat data yang sama.
+
+33
+00:01:36,660 --> 00:01:38,600
+Dokter sendiri juga punya halamannya.
+
+34
+00:01:39,060 --> 00:01:40,400
+Ketika masuk sebagai doktor,
+
+35
+00:01:40,640 --> 00:01:42,140
+dia bisa melihat komisinya sendiri
+
+36
+00:01:42,140 --> 00:01:44,320
+tanpa perlu meminta rekap ke bagian admin.
+
+37
+00:01:45,160 --> 00:01:46,940
+Selain uang, ada juga sisi team.
+
+38
+00:01:47,540 --> 00:01:48,380
+Di menu rekap staff,
+
+39
+00:01:48,740 --> 00:01:51,380
+kehadiran dan aktivitas staff terekap dalam satu halaman.
+
+40
+00:01:52,040 --> 00:01:53,900
+Dokter, perawat, dan front office
+
+41
+00:01:53,900 --> 00:01:55,140
+punya menunya masing-masing
+
+42
+00:01:55,140 --> 00:01:57,300
+dengan hak akses yang berbeda sesuai perannya.
+
+43
+00:01:59,220 --> 00:02:01,360
+Semua angka tadi bermuara di dashboard.
+
+44
+00:02:01,860 --> 00:02:04,140
+Di halaman depan terlihat pendapatan bulan berjalan,
+
+45
+00:02:04,580 --> 00:02:05,720
+jumlah anterian aktif,
+
+46
+00:02:06,000 --> 00:02:06,860
+jumlah pasian baru,
+
+47
+00:02:07,420 --> 00:02:09,040
+dan grafik trend pendapatan harian.
+
+48
+00:02:09,660 --> 00:02:11,020
+Rentang grafiknya bisa diganti
+
+49
+00:02:11,020 --> 00:02:14,520
+7 hari, 14 hari, atau 30 hari terakhir.
+
+50
+00:02:15,380 --> 00:02:17,160
+Di bawahnya masih ada ringkasan lain,
+
+51
+00:02:17,500 --> 00:02:18,880
+seperti demografi pasian
+
+52
+00:02:18,880 --> 00:02:20,900
+dan tindakan yang paling sering dikerjakan.
+
+53
+00:02:21,500 --> 00:02:23,920
+Jadi pemilik klinik bisa melihat kondisi kliniknya
+
+54
+00:02:23,920 --> 00:02:24,880
+dalam satu layar
+
+55
+00:02:24,880 --> 00:02:27,040
+tanpa membuka spreadsheet satu per satu.
+
+56
+00:02:27,880 --> 00:02:30,820
+Intinya, angka di dashboard itu bukan input terpisah.
+
+57
+00:02:31,120 --> 00:02:33,440
+Semuanya berasal dari tindakan yang dicatat dokter
+
+58
+00:02:33,440 --> 00:02:35,020
+dan pembayaran yang dicatat kasir,
+
+59
+00:02:35,320 --> 00:02:36,660
+mengalir sendiri ke atas.
+
+60
+00:02:37,200 --> 00:02:39,820
+Kalau ingin melihat langsung laporan dan halaman komisinya,
+
+61
+00:02:40,200 --> 00:02:42,800
+versi demonya bisa dicoba lewat tautan di deskripsi.
+

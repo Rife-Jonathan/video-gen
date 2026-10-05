@@ -1,0 +1,208 @@
+1
+00:00:00,000 --> 00:00:01,920
+Rekam medis gigi punya masalah yang khas.
+
+2
+00:00:02,240 --> 00:00:04,540
+Catatannya tidak cuma soal kluhan pasien,
+
+3
+00:00:04,900 --> 00:00:06,820
+tapi soal gigi mana yang bermasalah.
+
+4
+00:00:07,160 --> 00:00:10,240
+Sudah ditambal di sebelah mana dan mana yang sudah dicabut.
+
+5
+00:00:10,860 --> 00:00:12,460
+Kalau semua itu ditulis di kertas,
+
+6
+00:00:12,720 --> 00:00:15,640
+dokter berikutnya harus menebak dari tulisan tangan orang lain.
+
+7
+00:00:16,160 --> 00:00:20,540
+Di video ini saya akan tunjukkan bagaimana bagian itu dikerjakan di Dental Care Studio.
+
+8
+00:00:22,260 --> 00:00:24,480
+Kita mulai dari halaman pemeriksaan.
+
+9
+00:00:24,780 --> 00:00:26,460
+Setelah pasien masuk ruang periksa,
+
+10
+00:00:26,460 --> 00:00:30,640
+dokter membuka data pasien dan mengisi catatan klinis dengan format soap.
+
+11
+00:00:30,960 --> 00:00:33,640
+Subjektif untuk kluhan yang disampaikan pasien,
+
+12
+00:00:34,000 --> 00:00:35,940
+objektif untuk temuan pemeriksaan,
+
+13
+00:00:36,280 --> 00:00:39,420
+assessment untuk diagnosis, dan plan untuk rencana perawatan.
+
+14
+00:00:40,080 --> 00:00:42,960
+Di bagian diagnosis ada pilihan kode ICD-10.
+
+15
+00:00:43,440 --> 00:00:46,240
+Dokter memilih dari daftar, tidak mengetik bebas.
+
+16
+00:00:46,600 --> 00:00:48,960
+Jadi istilah yang dipakai seragam antar dokter
+
+17
+00:00:48,960 --> 00:00:52,500
+dan catatannya tetap terbaca ketika dibuka berpulan-pulan kemudian.
+
+18
+00:00:53,340 --> 00:00:55,960
+Sekarang bagian yang paling khas untuk klinik gigi.
+
+19
+00:00:55,960 --> 00:00:56,840
+Odontogram.
+
+20
+00:00:57,260 --> 00:00:59,340
+Ini adalah peta gigi yang bisa diklik.
+
+21
+00:00:59,700 --> 00:01:02,920
+Setiap gigi punya nomornya sendiri sesuai penomoran standar
+
+22
+00:01:02,920 --> 00:01:05,120
+dan kondisinya ditandai dengan warna.
+
+23
+00:01:05,580 --> 00:01:08,760
+Dokter tinggal memilih giginya, lalu memilih kondisinya.
+
+24
+00:01:09,120 --> 00:01:11,360
+Karies, tambalan, gigi hilang,
+
+25
+00:01:11,620 --> 00:01:14,820
+sampai gigi yang sudah dicabut masing-masing punya warna berbeda.
+
+26
+00:01:15,240 --> 00:01:19,200
+Karena ditandai dengan warna, kondisi mulut pasien bisa dibaca sekilas
+
+27
+00:01:19,200 --> 00:01:21,620
+tanpa harus membaca satu persatu catatannya.
+
+28
+00:01:22,360 --> 00:01:25,300
+Daftar kondisi giginya sendiri bisa diatur di menu tersendiri.
+
+29
+00:01:25,300 --> 00:01:28,940
+Jadi kalau klinik punya istilah atau penandaan yang biasa dipakai,
+
+30
+00:01:29,360 --> 00:01:32,220
+daftarnya bisa disesuaikan, bukan di kunci bawaan sistem.
+
+31
+00:01:33,000 --> 00:01:35,640
+Setelah pemeriksaan selesai, dokter menentukan tindakan.
+
+32
+00:01:36,100 --> 00:01:39,660
+Di menu tindakan sudah tersedia daftar layanan lengkap dengan kodah,
+
+33
+00:01:39,880 --> 00:01:42,280
+kategori, tarif, dan perkiraan durasinya.
+
+34
+00:01:42,740 --> 00:01:45,960
+Dokter memilih dari daftar, tidak mengetik ulang nama tindakan.
+
+35
+00:01:46,400 --> 00:01:49,880
+Karena tarifnya sudah tersimpan di sana, harga yang keluar konsisten,
+
+36
+00:01:50,200 --> 00:01:52,420
+tidak berubah tergantung siapa yang jaga hari itu.
+
+37
+00:01:53,180 --> 00:01:55,500
+Semua yang dicatat tadi menempel ke pasiennya.
+
+38
+00:01:55,820 --> 00:01:58,480
+Di halaman detail pasien ada tab priwayat kunjungan
+
+39
+00:01:58,480 --> 00:02:02,820
+yang menampilkan setiap kali pasien datang beserta apa yang dikerjakan waktu itu.
+
+40
+00:02:03,260 --> 00:02:04,840
+Ada juga tab priwayat perubahan,
+
+41
+00:02:05,240 --> 00:02:07,900
+jadi terlihat catatan mana yang pernah diubah dan kapan.
+
+42
+00:02:08,400 --> 00:02:10,560
+Ini yang membuat penanganan jadi lebih mudah
+
+43
+00:02:10,560 --> 00:02:12,620
+ketika pasien ditangani dokter yang berbeda.
+
+44
+00:02:13,040 --> 00:02:15,320
+Dokter yang baru pertama kali menangani pasien itu
+
+45
+00:02:15,320 --> 00:02:16,800
+bisa membuka odontogramnya,
+
+46
+00:02:17,180 --> 00:02:20,360
+melihat gigi mana yang sudah dikerjakan lalu melanjutkan dari sana.
+
+47
+00:02:21,000 --> 00:02:23,400
+Jadi ringkasnya, catatan klinis terstruktur,
+
+48
+00:02:23,780 --> 00:02:25,800
+kondisi gigi terpetakan per gigi,
+
+49
+00:02:26,020 --> 00:02:27,780
+dan priwayatnya tersimpan per pasien.
+
+50
+00:02:28,180 --> 00:02:31,480
+Tiga hal yang kalau masih dikertas biasanya paling cepat berantakan.
+
+51
+00:02:32,080 --> 00:02:35,100
+Kalau ingin melihat langsung odontogram dan halaman pemeriksaannya,
+
+52
+00:02:35,480 --> 00:02:38,020
+versi demonya bisa dicoba lewat tautan di deskripsi.
+

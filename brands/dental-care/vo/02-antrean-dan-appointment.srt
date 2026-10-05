@@ -1,0 +1,124 @@
+1
+00:00:00,000 --> 00:00:08,500
+Kalau kamu punya klinik gigi, salah satu hal yang paling sering bikin ribut di meja depan adalah urusan jatwal dan anterian.
+
+2
+00:00:09,020 --> 00:00:15,540
+Siapa yang datang duluan, siapa yang sudah janjian, dan siapa yang cuma datang tanpa konfirmasi.
+
+3
+00:00:16,320 --> 00:00:26,860
+Di video ini saya akan tunjukkan bagaimana dental care studio menangani bagian itu dari pasien membuat janji sampai namanya dipanggil masuk ruang periksa.
+
+4
+00:00:27,860 --> 00:00:29,820
+Kita mulai dari sisi pasien.
+
+5
+00:00:30,400 --> 00:00:33,020
+Di website klinik ada formulir reservasi.
+
+6
+00:00:33,620 --> 00:00:40,080
+Pasien mengisi nama, memilih dokter, memilih tanggal, dan memilih jam yang masih kosong.
+
+7
+00:00:40,520 --> 00:00:47,420
+Slot yang sudah terisi tidak ditampilkan, jadi pasien tidak bisa memilih jam yang sebenarnya sudah penuh.
+
+8
+00:00:48,040 --> 00:00:53,020
+Begitu formulir dikirim, jatwalnya masuk ke menu appointment di sisi admin.
+
+9
+00:00:53,020 --> 00:00:57,320
+Di sini, seluruh jatwal ditampilkan dalam bentuk kalender.
+
+10
+00:00:57,900 --> 00:01:03,340
+Admin bisa berpindah antartanggal dan memfilter tampilan berdasarkan dokter tertentu.
+
+11
+00:01:03,860 --> 00:01:11,600
+Jadi kalau ada dua dokter praktik di hari yang sama, jatwal masing-masing bisa dilihat terpisah, tidak menumpuk jadi satu.
+
+12
+00:01:12,340 --> 00:01:17,820
+Admin juga bisa menambah appointment langsung dari sini, misalnya untuk pasien yang menalfon.
+
+13
+00:01:17,820 --> 00:01:25,900
+Prosesnya sama, pilih pasien, pilih dokter, pilih tanggal dan jam, bedanya cuma siapa yang mengisi.
+
+14
+00:01:26,700 --> 00:01:28,820
+Sekarang kita lanjut ke hari pelaksanaan.
+
+15
+00:01:29,920 --> 00:01:33,060
+Pasien datang dan front office membuka menu antrian.
+
+16
+00:01:33,760 --> 00:01:40,080
+Di layar ini terlihat siapa yang sedang menunggu, siapa yang sedang diperiksa, dan berapa nomor urutnya.
+
+17
+00:01:40,740 --> 00:01:47,160
+Setiap baris punya tombol panggil, jadi front office tinggal menekan tombol itu ketika giliran pasien tiba.
+
+18
+00:01:47,940 --> 00:01:51,040
+Statusnya berubah mengikuti kondisi nyata di klinik.
+
+19
+00:01:51,420 --> 00:01:54,340
+Menunggu, sedang diperiksa, selesai.
+
+20
+00:01:54,960 --> 00:02:02,960
+Karena statusnya terlihat di layar, front office tidak perlu bolak-balik ke ruang praktik hanya untuk memastikan dokternya sudah selesai atau belum.
+
+21
+00:02:03,680 --> 00:02:11,740
+Ada juga tep riwayat antrian. Antrian hari kemarin dan hari-hari sebelumnya tetap tersimpan tidak hilang begitu hari berganti.
+
+22
+00:02:11,740 --> 00:02:18,040
+Jadi kalau ada pasien yang menanyakan kapan terakhir dia datang, catatannya bisa dibuka lagi.
+
+23
+00:02:18,880 --> 00:02:21,780
+Antrian ini juga terhubung dengan data pasien.
+
+24
+00:02:22,260 --> 00:02:26,940
+Dari daftar pasien, riwayat kunjungan setiap orang bisa dilihat pertanggal.
+
+25
+00:02:27,420 --> 00:02:32,400
+Siapa dokternya, tindakan apa yang dikerjakan, dan kapan kunjungan berikutnya.
+
+26
+00:02:33,200 --> 00:02:37,860
+Kalau kita lihat keseluruhannya, tiga hal tadi sebenarnya satu rangkaian.
+
+27
+00:02:37,860 --> 00:02:45,860
+Pasien membuat janji dari website, jadualnya muncul di kalender admin, lalu namanya masuk ke antrian di hari kedatangan.
+
+28
+00:02:46,380 --> 00:02:49,080
+Tidak ada data yang diketik ulang di antara ketiganya.
+
+29
+00:02:49,960 --> 00:02:56,380
+Buat klinik yang sehari melayani belasan sampai puluhan pasien, bagian inilah yang paling terasa bedanya.
+
+30
+00:02:56,960 --> 00:03:00,220
+Meja depan tidak lagi mengandalkan buku tulis dan ingatan.
+
+31
+00:03:00,220 --> 00:03:08,480
+Kalau kamu ingin mencoba sendiri bagaimana alur ini bekerja, versi demonya bisa diakses lewat tautan di deskripsi.
+

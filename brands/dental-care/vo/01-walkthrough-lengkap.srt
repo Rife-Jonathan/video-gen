@@ -1,0 +1,332 @@
+1
+00:00:00,000 --> 00:00:04,620
+Di video kali ini, saya akan memperkenalkan Dental Care Studio,
+
+2
+00:00:05,360 --> 00:00:11,120
+aplikasi yang dibuat untuk membantu klinik gigi mengelola operasional hariannya dalam satu sistem.
+
+3
+00:00:11,860 --> 00:00:17,560
+Sebagai doktor gigi atau pemilik klinik, tentu fokus utama adalah merawat pasian sebaik mungkin.
+
+4
+00:00:18,140 --> 00:00:22,000
+Tapi di balik itu, masih ada banyak halu yang juga harus dikelola.
+
+5
+00:00:22,520 --> 00:00:26,340
+Mulai dari jatual dan entrean, rekam edis, stok obat,
+
+6
+00:00:26,340 --> 00:00:30,100
+Tagihan, sampai komisi doktor dan laporan bulanan.
+
+7
+00:00:30,780 --> 00:00:37,400
+Semakin ramai kliniknya, proses seperti ini semakin rumit kalau masih dikelola di tempat yang berbeda-beda.
+
+8
+00:00:37,740 --> 00:00:42,760
+Buku antrian di meja depan, rekam edis di map, taris di kepala masing-masing,
+
+9
+00:00:43,140 --> 00:00:45,920
+dan rekap komisi baru dihitung di akhir bulan.
+
+10
+00:00:46,480 --> 00:00:52,600
+Nah, di video kali ini saya akan tunjukkan salah satu solusi untuk membantu proses tersebut.
+
+11
+00:00:53,240 --> 00:00:58,740
+Dengan dental care studio, alur mulai dari pasian membuat janji, datang ke klinik,
+
+12
+00:00:59,020 --> 00:01:04,000
+di periksa, sampai laporan untuk pemilik bisa dikelola dalam satu sistem.
+
+13
+00:01:04,580 --> 00:01:06,920
+Kita langsung lihat bagaimana aplikasinya bekerja.
+
+14
+00:01:07,600 --> 00:01:10,600
+Sekarang, kita masuk ke titik awal semuanya.
+
+15
+00:01:11,160 --> 00:01:12,900
+Pasian membuat janji.
+
+16
+00:01:13,520 --> 00:01:18,120
+Di menu appointment, admin bisa melihat seluruh jatual dalam bentuk kalender
+
+17
+00:01:18,120 --> 00:01:20,800
+dan memfilternya berdasarkan dokter.
+
+18
+00:01:21,440 --> 00:01:27,360
+Pasian juga bisa booking sendiri dari website klinik dan jatualnya langsung masuk ke kalender ini.
+
+19
+00:01:27,800 --> 00:01:31,000
+Jadi, ketika ada pasian yang ingin membuat janji,
+
+20
+00:01:31,440 --> 00:01:36,200
+admin bisa langsung melihat slot yang kosong dan mengurangi resiko jatual bentrap.
+
+21
+00:01:36,640 --> 00:01:41,220
+Setelah pasian membuat appointment, berikutnya pasian datang ke klinik.
+
+22
+00:01:41,700 --> 00:01:45,840
+Di menu antrian, front office bisa melihat siapa yang sedang menunggu
+
+23
+00:01:45,840 --> 00:01:47,820
+dan siapa yang sedang di periksa.
+
+24
+00:01:48,280 --> 00:01:49,880
+Lengkap dengan tombol panggil.
+
+25
+00:01:50,520 --> 00:01:52,200
+Ada juga tepriwayat antrian.
+
+26
+00:01:52,720 --> 00:01:56,100
+Jadi, kunjungan hari-hari sebelumnya tetap tercatat.
+
+27
+00:01:56,220 --> 00:02:01,520
+Jadi pasian dipanggil sesuai urutan dan tidak ada lagi salah paham soal siapa yang duluan.
+
+28
+00:02:02,140 --> 00:02:07,220
+Setelah pasian masuk ruang periksa, berikutnya kita ke bagian pemeriksaan.
+
+29
+00:02:07,640 --> 00:02:11,120
+Disini dokter mengisi catatan klinis dengan format soap
+
+30
+00:02:11,120 --> 00:02:14,260
+dan menandai fondisi gigi di odontogram digital.
+
+31
+00:02:15,120 --> 00:02:16,760
+Odontogramnya interaktif.
+
+32
+00:02:16,760 --> 00:02:21,040
+Setiap gigi punya nomor dan kondisinya ditandai dengan warna.
+
+33
+00:02:21,360 --> 00:02:25,600
+Mulai dari karyes, tambalan, sampai gigi yang sudah dicabut.
+
+34
+00:02:25,960 --> 00:02:29,360
+Jadi, riwayat perawatan tersimpan rapi per gigi
+
+35
+00:02:29,360 --> 00:02:32,120
+dan dokter berikutnya yang menengani pasian yang sama,
+
+36
+00:02:32,540 --> 00:02:34,620
+langsung tahu apa yang sudah dikerjakan.
+
+37
+00:02:35,360 --> 00:02:38,720
+Setelah pemeriksaan selesai, berikutnya dokter menentukan tindakan.
+
+38
+00:02:39,300 --> 00:02:46,380
+Di menu tindakan, sudah ada daftar layanan lengkap dengan kode, kategori, tarif, dan perkiraan durasinya.
+
+39
+00:02:47,220 --> 00:02:50,140
+Dokter tinggal memilih dari daftar itu, tidak mengetik ulang.
+
+40
+00:02:50,520 --> 00:02:55,400
+Jadi, harga tindakan konsisten tidak berubah-ubah tergantung siapa yang jaga hari itu.
+
+41
+00:02:55,920 --> 00:03:00,100
+Kalau pasian butuh resep, prosesnya lanjut ke bagian farmasi.
+
+42
+00:03:00,780 --> 00:03:06,920
+Di menu obat, semua stok tercatat lengkap dengan kategori, satuan, dan harganya.
+
+43
+00:03:07,640 --> 00:03:11,020
+Sistem juga menandai obat yang stoknya menipis,
+
+44
+00:03:11,020 --> 00:03:16,160
+jadi tidak ada lagi kejadian obat habis, justru saat pasian membutuhkannya.
+
+45
+00:03:16,900 --> 00:03:21,620
+Setelah pemeriksaan dan tindakan selesai, berikutnya kita masuk ke transaksi.
+
+46
+00:03:22,340 --> 00:03:26,020
+Invoice terbentuk dari tindakan dan obat yang tadi dicatat,
+
+47
+00:03:26,360 --> 00:03:28,880
+jadi tidak ada yang perlu diketik dua kali.
+
+48
+00:03:29,740 --> 00:03:32,860
+Setiap tagihan punya nomor, status pembayaran,
+
+49
+00:03:33,340 --> 00:03:35,860
+dan detail yang bisa dibuka kembali kapan saja.
+
+50
+00:03:36,700 --> 00:03:39,100
+Jadi tidak ada tindakan yang lupa ditagih,
+
+51
+00:03:39,260 --> 00:03:41,800
+dan pemasukan klinik tercatat rapi.
+
+52
+00:03:42,660 --> 00:03:45,520
+Data transaksi tadi tidak berhenti sampai invoice saja.
+
+53
+00:03:46,200 --> 00:03:47,640
+Di menu komisi dokter,
+
+54
+00:03:48,020 --> 00:03:51,680
+sistem menghitung komisi otomatis dari tindakan yang sudah dikerjakan
+
+55
+00:03:51,680 --> 00:03:56,620
+dan menampilkan pendapatan kotor, potongan, sampai profit bersihnya.
+
+56
+00:03:57,380 --> 00:04:01,740
+Rinciannya bisa dilihat per invoice, per dokter, per periode.
+
+57
+00:04:02,420 --> 00:04:05,480
+Jadi tidak perlu lagi menghitung manual di akhir bulan.
+
+58
+00:04:05,480 --> 00:04:09,380
+Dan angkanya transparan untuk dokter maupun pemilik klinik.
+
+59
+00:04:09,880 --> 00:04:11,220
+Selain mengelola pasien,
+
+60
+00:04:11,660 --> 00:04:13,940
+tentu klinik juga punya tim yang perlu dikelola.
+
+61
+00:04:14,700 --> 00:04:17,440
+Ada menu lekap staff untuk kehadiran dan kinderja,
+
+62
+00:04:17,960 --> 00:04:21,720
+serta menu terpisah untuk dokter, perawat dan front office
+
+63
+00:04:21,720 --> 00:04:23,180
+dengan hak akses masing-masing.
+
+64
+00:04:24,240 --> 00:04:26,320
+Semua ringkasannya bermuara di dashboard.
+
+65
+00:04:27,100 --> 00:04:32,540
+Pendapatan bulan ini, anterian aktif, pasien baru, dan trend pendapatan harian.
+
+66
+00:04:33,540 --> 00:04:37,060
+Jadi pemilik klinik bisa melihat kondisi kliniknya dalam satu layar
+
+67
+00:04:37,060 --> 00:04:38,580
+tanpa membuka spreadsheet.
+
+68
+00:04:39,240 --> 00:04:44,040
+Terakhir, satu bagian yang biasanya paling disukai pemilik klinik.
+
+69
+00:04:44,460 --> 00:04:46,160
+Di menu home page editor,
+
+70
+00:04:46,760 --> 00:04:49,860
+tampilan website publik klinik bisa diubah langsung.
+
+71
+00:04:50,220 --> 00:04:56,460
+Bagian hero, profil klinik, daftar layanan, sampai formulir janji temu.
+
+72
+00:04:57,000 --> 00:04:59,500
+Setiap bagian punya tombol simpan sendiri
+
+73
+00:04:59,500 --> 00:05:03,620
+dan hasilnya langsung tampil di website yang dilihat pasien.
+
+74
+00:05:03,800 --> 00:05:06,960
+Jadi klinik tidak perlu menghubungi pembuat website
+
+75
+00:05:06,960 --> 00:05:10,400
+hanya untuk mengganti satu foto atau satu harga.
+
+76
+00:05:11,080 --> 00:05:13,420
+Kalau kita lihat keseluruhan prosesnya,
+
+77
+00:05:13,780 --> 00:05:19,060
+Dental Care Studio membantu menghubungkan proses mulai dari pasien membuat janji
+
+78
+00:05:19,060 --> 00:05:23,680
+sampai laporan yang dibaca pemilik klinik di dalam satu sistem yang sama.
+
+79
+00:05:24,380 --> 00:05:28,820
+Tujuan aplikasi ini bukan untuk menggantikan penilaian klinis dokter.
+
+80
+00:05:28,820 --> 00:05:33,880
+Aplikasi ini dibuat untuk membereskan sisi administrasi dan operasional
+
+81
+00:05:33,880 --> 00:05:37,600
+supaya dokter dan perawat bisa lebih fokus merawat pasian.
+
+82
+00:05:38,080 --> 00:05:42,100
+Kalau ingin melihat langsung bagaimana Dental Care Studio bekerja,
+
+83
+00:05:42,520 --> 00:05:46,320
+kamu bisa mencoba versi demonya melalui tautan di deskripsi.
+

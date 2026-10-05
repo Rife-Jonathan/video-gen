@@ -1,0 +1,2191 @@
+{
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.92,
+   "text": "Rekam medis gigi punya masalah yang khas."
+  },
+  {
+   "start": 2.24,
+   "end": 4.54,
+   "text": "Catatannya tidak cuma soal kluhan pasien,"
+  },
+  {
+   "start": 4.9,
+   "end": 6.82,
+   "text": "tapi soal gigi mana yang bermasalah."
+  },
+  {
+   "start": 7.16,
+   "end": 10.24,
+   "text": "Sudah ditambal di sebelah mana dan mana yang sudah dicabut."
+  },
+  {
+   "start": 10.86,
+   "end": 12.46,
+   "text": "Kalau semua itu ditulis di kertas,"
+  },
+  {
+   "start": 12.72,
+   "end": 15.64,
+   "text": "dokter berikutnya harus menebak dari tulisan tangan orang lain."
+  },
+  {
+   "start": 16.16,
+   "end": 20.54,
+   "text": "Di video ini saya akan tunjukkan bagaimana bagian itu dikerjakan di Dental Care Studio."
+  },
+  {
+   "start": 22.26,
+   "end": 24.48,
+   "text": "Kita mulai dari halaman pemeriksaan."
+  },
+  {
+   "start": 24.78,
+   "end": 26.46,
+   "text": "Setelah pasien masuk ruang periksa,"
+  },
+  {
+   "start": 26.46,
+   "end": 30.64,
+   "text": "dokter membuka data pasien dan mengisi catatan klinis dengan format soap."
+  },
+  {
+   "start": 30.96,
+   "end": 33.64,
+   "text": "Subjektif untuk kluhan yang disampaikan pasien,"
+  },
+  {
+   "start": 34.0,
+   "end": 35.94,
+   "text": "objektif untuk temuan pemeriksaan,"
+  },
+  {
+   "start": 36.28,
+   "end": 39.42,
+   "text": "assessment untuk diagnosis, dan plan untuk rencana perawatan."
+  },
+  {
+   "start": 40.08,
+   "end": 42.96,
+   "text": "Di bagian diagnosis ada pilihan kode ICD-10."
+  },
+  {
+   "start": 43.44,
+   "end": 46.24,
+   "text": "Dokter memilih dari daftar, tidak mengetik bebas."
+  },
+  {
+   "start": 46.6,
+   "end": 48.96,
+   "text": "Jadi istilah yang dipakai seragam antar dokter"
+  },
+  {
+   "start": 48.96,
+   "end": 52.5,
+   "text": "dan catatannya tetap terbaca ketika dibuka berpulan-pulan kemudian."
+  },
+  {
+   "start": 53.34,
+   "end": 55.96,
+   "text": "Sekarang bagian yang paling khas untuk klinik gigi."
+  },
+  {
+   "start": 55.96,
+   "end": 56.84,
+   "text": "Odontogram."
+  },
+  {
+   "start": 57.26,
+   "end": 59.34,
+   "text": "Ini adalah peta gigi yang bisa diklik."
+  },
+  {
+   "start": 59.7,
+   "end": 62.92,
+   "text": "Setiap gigi punya nomornya sendiri sesuai penomoran standar"
+  },
+  {
+   "start": 62.92,
+   "end": 65.12,
+   "text": "dan kondisinya ditandai dengan warna."
+  },
+  {
+   "start": 65.58,
+   "end": 68.76,
+   "text": "Dokter tinggal memilih giginya, lalu memilih kondisinya."
+  },
+  {
+   "start": 69.12,
+   "end": 71.36,
+   "text": "Karies, tambalan, gigi hilang,"
+  },
+  {
+   "start": 71.62,
+   "end": 74.82,
+   "text": "sampai gigi yang sudah dicabut masing-masing punya warna berbeda."
+  },
+  {
+   "start": 75.24,
+   "end": 79.2,
+   "text": "Karena ditandai dengan warna, kondisi mulut pasien bisa dibaca sekilas"
+  },
+  {
+   "start": 79.2,
+   "end": 81.62,
+   "text": "tanpa harus membaca satu persatu catatannya."
+  },
+  {
+   "start": 82.36,
+   "end": 85.3,
+   "text": "Daftar kondisi giginya sendiri bisa diatur di menu tersendiri."
+  },
+  {
+   "start": 85.3,
+   "end": 88.94,
+   "text": "Jadi kalau klinik punya istilah atau penandaan yang biasa dipakai,"
+  },
+  {
+   "start": 89.36,
+   "end": 92.22,
+   "text": "daftarnya bisa disesuaikan, bukan di kunci bawaan sistem."
+  },
+  {
+   "start": 93.0,
+   "end": 95.64,
+   "text": "Setelah pemeriksaan selesai, dokter menentukan tindakan."
+  },
+  {
+   "start": 96.1,
+   "end": 99.66,
+   "text": "Di menu tindakan sudah tersedia daftar layanan lengkap dengan kodah,"
+  },
+  {
+   "start": 99.88,
+   "end": 102.28,
+   "text": "kategori, tarif, dan perkiraan durasinya."
+  },
+  {
+   "start": 102.74,
+   "end": 105.96,
+   "text": "Dokter memilih dari daftar, tidak mengetik ulang nama tindakan."
+  },
+  {
+   "start": 106.4,
+   "end": 109.88,
+   "text": "Karena tarifnya sudah tersimpan di sana, harga yang keluar konsisten,"
+  },
+  {
+   "start": 110.2,
+   "end": 112.42,
+   "text": "tidak berubah tergantung siapa yang jaga hari itu."
+  },
+  {
+   "start": 113.18,
+   "end": 115.5,
+   "text": "Semua yang dicatat tadi menempel ke pasiennya."
+  },
+  {
+   "start": 115.82,
+   "end": 118.48,
+   "text": "Di halaman detail pasien ada tab priwayat kunjungan"
+  },
+  {
+   "start": 118.48,
+   "end": 122.82,
+   "text": "yang menampilkan setiap kali pasien datang beserta apa yang dikerjakan waktu itu."
+  },
+  {
+   "start": 123.26,
+   "end": 124.84,
+   "text": "Ada juga tab priwayat perubahan,"
+  },
+  {
+   "start": 125.24,
+   "end": 127.9,
+   "text": "jadi terlihat catatan mana yang pernah diubah dan kapan."
+  },
+  {
+   "start": 128.4,
+   "end": 130.56,
+   "text": "Ini yang membuat penanganan jadi lebih mudah"
+  },
+  {
+   "start": 130.56,
+   "end": 132.62,
+   "text": "ketika pasien ditangani dokter yang berbeda."
+  },
+  {
+   "start": 133.04,
+   "end": 135.32,
+   "text": "Dokter yang baru pertama kali menangani pasien itu"
+  },
+  {
+   "start": 135.32,
+   "end": 136.8,
+   "text": "bisa membuka odontogramnya,"
+  },
+  {
+   "start": 137.18,
+   "end": 140.36,
+   "text": "melihat gigi mana yang sudah dikerjakan lalu melanjutkan dari sana."
+  },
+  {
+   "start": 141.0,
+   "end": 143.4,
+   "text": "Jadi ringkasnya, catatan klinis terstruktur,"
+  },
+  {
+   "start": 143.78,
+   "end": 145.8,
+   "text": "kondisi gigi terpetakan per gigi,"
+  },
+  {
+   "start": 146.02,
+   "end": 147.78,
+   "text": "dan priwayatnya tersimpan per pasien."
+  },
+  {
+   "start": 148.18,
+   "end": 151.48,
+   "text": "Tiga hal yang kalau masih dikertas biasanya paling cepat berantakan."
+  },
+  {
+   "start": 152.08,
+   "end": 155.1,
+   "text": "Kalau ingin melihat langsung odontogram dan halaman pemeriksaannya,"
+  },
+  {
+   "start": 155.48,
+   "end": 158.02,
+   "text": "versi demonya bisa dicoba lewat tautan di deskripsi."
+  }
+ ],
+ "words": [
+  {
+   "start": 0.0,
+   "end": 0.26,
+   "word": "Rekam"
+  },
+  {
+   "start": 0.26,
+   "end": 0.56,
+   "word": "medis"
+  },
+  {
+   "start": 0.56,
+   "end": 0.86,
+   "word": "gigi"
+  },
+  {
+   "start": 0.86,
+   "end": 1.1,
+   "word": "punya"
+  },
+  {
+   "start": 1.1,
+   "end": 1.46,
+   "word": "masalah"
+  },
+  {
+   "start": 1.46,
+   "end": 1.64,
+   "word": "yang"
+  },
+  {
+   "start": 1.64,
+   "end": 1.92,
+   "word": "khas."
+  },
+  {
+   "start": 2.24,
+   "end": 2.76,
+   "word": "Catatannya"
+  },
+  {
+   "start": 2.76,
+   "end": 2.98,
+   "word": "tidak"
+  },
+  {
+   "start": 2.98,
+   "end": 3.24,
+   "word": "cuma"
+  },
+  {
+   "start": 3.24,
+   "end": 3.6,
+   "word": "soal"
+  },
+  {
+   "start": 3.6,
+   "end": 3.94,
+   "word": "kluhan"
+  },
+  {
+   "start": 3.94,
+   "end": 4.54,
+   "word": "pasien,"
+  },
+  {
+   "start": 4.9,
+   "end": 5.16,
+   "word": "tapi"
+  },
+  {
+   "start": 5.16,
+   "end": 5.58,
+   "word": "soal"
+  },
+  {
+   "start": 5.58,
+   "end": 5.82,
+   "word": "gigi"
+  },
+  {
+   "start": 5.82,
+   "end": 6.06,
+   "word": "mana"
+  },
+  {
+   "start": 6.06,
+   "end": 6.28,
+   "word": "yang"
+  },
+  {
+   "start": 6.28,
+   "end": 6.82,
+   "word": "bermasalah."
+  },
+  {
+   "start": 7.16,
+   "end": 7.46,
+   "word": "Sudah"
+  },
+  {
+   "start": 7.46,
+   "end": 7.98,
+   "word": "ditambal"
+  },
+  {
+   "start": 7.98,
+   "end": 8.14,
+   "word": "di"
+  },
+  {
+   "start": 8.14,
+   "end": 8.46,
+   "word": "sebelah"
+  },
+  {
+   "start": 8.46,
+   "end": 8.64,
+   "word": "mana"
+  },
+  {
+   "start": 8.64,
+   "end": 9.14,
+   "word": "dan"
+  },
+  {
+   "start": 9.14,
+   "end": 9.44,
+   "word": "mana"
+  },
+  {
+   "start": 9.44,
+   "end": 9.68,
+   "word": "yang"
+  },
+  {
+   "start": 9.68,
+   "end": 9.84,
+   "word": "sudah"
+  },
+  {
+   "start": 9.84,
+   "end": 10.24,
+   "word": "dicabut."
+  },
+  {
+   "start": 10.86,
+   "end": 11.18,
+   "word": "Kalau"
+  },
+  {
+   "start": 11.18,
+   "end": 11.46,
+   "word": "semua"
+  },
+  {
+   "start": 11.46,
+   "end": 11.66,
+   "word": "itu"
+  },
+  {
+   "start": 11.66,
+   "end": 12.02,
+   "word": "ditulis"
+  },
+  {
+   "start": 12.02,
+   "end": 12.12,
+   "word": "di"
+  },
+  {
+   "start": 12.12,
+   "end": 12.46,
+   "word": "kertas,"
+  },
+  {
+   "start": 12.72,
+   "end": 13.0,
+   "word": "dokter"
+  },
+  {
+   "start": 13.0,
+   "end": 13.54,
+   "word": "berikutnya"
+  },
+  {
+   "start": 13.54,
+   "end": 13.78,
+   "word": "harus"
+  },
+  {
+   "start": 13.78,
+   "end": 14.3,
+   "word": "menebak"
+  },
+  {
+   "start": 14.3,
+   "end": 14.56,
+   "word": "dari"
+  },
+  {
+   "start": 14.56,
+   "end": 14.86,
+   "word": "tulisan"
+  },
+  {
+   "start": 14.86,
+   "end": 15.18,
+   "word": "tangan"
+  },
+  {
+   "start": 15.18,
+   "end": 15.34,
+   "word": "orang"
+  },
+  {
+   "start": 15.34,
+   "end": 15.64,
+   "word": "lain."
+  },
+  {
+   "start": 16.16,
+   "end": 16.36,
+   "word": "Di"
+  },
+  {
+   "start": 16.36,
+   "end": 16.62,
+   "word": "video"
+  },
+  {
+   "start": 16.62,
+   "end": 16.82,
+   "word": "ini"
+  },
+  {
+   "start": 16.82,
+   "end": 17.02,
+   "word": "saya"
+  },
+  {
+   "start": 17.02,
+   "end": 17.24,
+   "word": "akan"
+  },
+  {
+   "start": 17.24,
+   "end": 17.76,
+   "word": "tunjukkan"
+  },
+  {
+   "start": 17.76,
+   "end": 18.3,
+   "word": "bagaimana"
+  },
+  {
+   "start": 18.3,
+   "end": 18.72,
+   "word": "bagian"
+  },
+  {
+   "start": 18.72,
+   "end": 18.9,
+   "word": "itu"
+  },
+  {
+   "start": 18.9,
+   "end": 19.38,
+   "word": "dikerjakan"
+  },
+  {
+   "start": 19.38,
+   "end": 19.68,
+   "word": "di"
+  },
+  {
+   "start": 19.68,
+   "end": 19.98,
+   "word": "Dental"
+  },
+  {
+   "start": 19.98,
+   "end": 20.22,
+   "word": "Care"
+  },
+  {
+   "start": 20.22,
+   "end": 20.54,
+   "word": "Studio."
+  },
+  {
+   "start": 22.26,
+   "end": 22.86,
+   "word": "Kita"
+  },
+  {
+   "start": 22.86,
+   "end": 23.16,
+   "word": "mulai"
+  },
+  {
+   "start": 23.16,
+   "end": 23.36,
+   "word": "dari"
+  },
+  {
+   "start": 23.36,
+   "end": 23.76,
+   "word": "halaman"
+  },
+  {
+   "start": 23.76,
+   "end": 24.48,
+   "word": "pemeriksaan."
+  },
+  {
+   "start": 24.78,
+   "end": 25.12,
+   "word": "Setelah"
+  },
+  {
+   "start": 25.12,
+   "end": 25.42,
+   "word": "pasien"
+  },
+  {
+   "start": 25.42,
+   "end": 25.7,
+   "word": "masuk"
+  },
+  {
+   "start": 25.7,
+   "end": 26.0,
+   "word": "ruang"
+  },
+  {
+   "start": 26.0,
+   "end": 26.46,
+   "word": "periksa,"
+  },
+  {
+   "start": 26.46,
+   "end": 27.16,
+   "word": "dokter"
+  },
+  {
+   "start": 27.16,
+   "end": 27.52,
+   "word": "membuka"
+  },
+  {
+   "start": 27.52,
+   "end": 27.76,
+   "word": "data"
+  },
+  {
+   "start": 27.76,
+   "end": 28.24,
+   "word": "pasien"
+  },
+  {
+   "start": 28.24,
+   "end": 28.46,
+   "word": "dan"
+  },
+  {
+   "start": 28.46,
+   "end": 28.8,
+   "word": "mengisi"
+  },
+  {
+   "start": 28.8,
+   "end": 29.2,
+   "word": "catatan"
+  },
+  {
+   "start": 29.2,
+   "end": 29.64,
+   "word": "klinis"
+  },
+  {
+   "start": 29.64,
+   "end": 29.88,
+   "word": "dengan"
+  },
+  {
+   "start": 29.88,
+   "end": 30.2,
+   "word": "format"
+  },
+  {
+   "start": 30.2,
+   "end": 30.64,
+   "word": "soap."
+  },
+  {
+   "start": 30.96,
+   "end": 31.68,
+   "word": "Subjektif"
+  },
+  {
+   "start": 31.68,
+   "end": 31.94,
+   "word": "untuk"
+  },
+  {
+   "start": 31.94,
+   "end": 32.3,
+   "word": "kluhan"
+  },
+  {
+   "start": 32.3,
+   "end": 32.56,
+   "word": "yang"
+  },
+  {
+   "start": 32.56,
+   "end": 33.08,
+   "word": "disampaikan"
+  },
+  {
+   "start": 33.08,
+   "end": 33.64,
+   "word": "pasien,"
+  },
+  {
+   "start": 34.0,
+   "end": 34.58,
+   "word": "objektif"
+  },
+  {
+   "start": 34.58,
+   "end": 34.78,
+   "word": "untuk"
+  },
+  {
+   "start": 34.78,
+   "end": 35.18,
+   "word": "temuan"
+  },
+  {
+   "start": 35.18,
+   "end": 35.94,
+   "word": "pemeriksaan,"
+  },
+  {
+   "start": 36.28,
+   "end": 36.64,
+   "word": "assessment"
+  },
+  {
+   "start": 36.64,
+   "end": 37.02,
+   "word": "untuk"
+  },
+  {
+   "start": 37.02,
+   "end": 37.42,
+   "word": "diagnosis,"
+  },
+  {
+   "start": 37.86,
+   "end": 37.92,
+   "word": "dan"
+  },
+  {
+   "start": 37.92,
+   "end": 38.22,
+   "word": "plan"
+  },
+  {
+   "start": 38.22,
+   "end": 38.56,
+   "word": "untuk"
+  },
+  {
+   "start": 38.56,
+   "end": 38.94,
+   "word": "rencana"
+  },
+  {
+   "start": 38.94,
+   "end": 39.42,
+   "word": "perawatan."
+  },
+  {
+   "start": 40.08,
+   "end": 40.36,
+   "word": "Di"
+  },
+  {
+   "start": 40.36,
+   "end": 40.68,
+   "word": "bagian"
+  },
+  {
+   "start": 40.68,
+   "end": 41.08,
+   "word": "diagnosis"
+  },
+  {
+   "start": 41.08,
+   "end": 41.48,
+   "word": "ada"
+  },
+  {
+   "start": 41.48,
+   "end": 41.9,
+   "word": "pilihan"
+  },
+  {
+   "start": 41.9,
+   "end": 42.2,
+   "word": "kode"
+  },
+  {
+   "start": 42.2,
+   "end": 42.66,
+   "word": "ICD"
+  },
+  {
+   "start": 42.66,
+   "end": 42.96,
+   "word": "-10."
+  },
+  {
+   "start": 43.44,
+   "end": 43.88,
+   "word": "Dokter"
+  },
+  {
+   "start": 43.88,
+   "end": 44.36,
+   "word": "memilih"
+  },
+  {
+   "start": 44.36,
+   "end": 44.54,
+   "word": "dari"
+  },
+  {
+   "start": 44.54,
+   "end": 44.96,
+   "word": "daftar,"
+  },
+  {
+   "start": 45.26,
+   "end": 45.48,
+   "word": "tidak"
+  },
+  {
+   "start": 45.48,
+   "end": 45.88,
+   "word": "mengetik"
+  },
+  {
+   "start": 45.88,
+   "end": 46.24,
+   "word": "bebas."
+  },
+  {
+   "start": 46.6,
+   "end": 46.86,
+   "word": "Jadi"
+  },
+  {
+   "start": 46.86,
+   "end": 47.2,
+   "word": "istilah"
+  },
+  {
+   "start": 47.2,
+   "end": 47.4,
+   "word": "yang"
+  },
+  {
+   "start": 47.4,
+   "end": 47.82,
+   "word": "dipakai"
+  },
+  {
+   "start": 47.82,
+   "end": 48.26,
+   "word": "seragam"
+  },
+  {
+   "start": 48.26,
+   "end": 48.56,
+   "word": "antar"
+  },
+  {
+   "start": 48.56,
+   "end": 48.96,
+   "word": "dokter"
+  },
+  {
+   "start": 48.96,
+   "end": 49.34,
+   "word": "dan"
+  },
+  {
+   "start": 49.34,
+   "end": 49.82,
+   "word": "catatannya"
+  },
+  {
+   "start": 49.82,
+   "end": 50.16,
+   "word": "tetap"
+  },
+  {
+   "start": 50.16,
+   "end": 50.54,
+   "word": "terbaca"
+  },
+  {
+   "start": 50.54,
+   "end": 50.92,
+   "word": "ketika"
+  },
+  {
+   "start": 50.92,
+   "end": 51.3,
+   "word": "dibuka"
+  },
+  {
+   "start": 51.3,
+   "end": 51.8,
+   "word": "berpulan"
+  },
+  {
+   "start": 51.8,
+   "end": 51.98,
+   "word": "-pulan"
+  },
+  {
+   "start": 51.98,
+   "end": 52.5,
+   "word": "kemudian."
+  },
+  {
+   "start": 53.34,
+   "end": 53.9,
+   "word": "Sekarang"
+  },
+  {
+   "start": 53.9,
+   "end": 54.28,
+   "word": "bagian"
+  },
+  {
+   "start": 54.28,
+   "end": 54.44,
+   "word": "yang"
+  },
+  {
+   "start": 54.44,
+   "end": 54.72,
+   "word": "paling"
+  },
+  {
+   "start": 54.72,
+   "end": 54.96,
+   "word": "khas"
+  },
+  {
+   "start": 54.96,
+   "end": 55.28,
+   "word": "untuk"
+  },
+  {
+   "start": 55.28,
+   "end": 55.66,
+   "word": "klinik"
+  },
+  {
+   "start": 55.66,
+   "end": 55.96,
+   "word": "gigi."
+  },
+  {
+   "start": 55.96,
+   "end": 56.84,
+   "word": "Odontogram."
+  },
+  {
+   "start": 57.26,
+   "end": 57.58,
+   "word": "Ini"
+  },
+  {
+   "start": 57.58,
+   "end": 57.92,
+   "word": "adalah"
+  },
+  {
+   "start": 57.92,
+   "end": 58.36,
+   "word": "peta"
+  },
+  {
+   "start": 58.36,
+   "end": 58.62,
+   "word": "gigi"
+  },
+  {
+   "start": 58.62,
+   "end": 58.74,
+   "word": "yang"
+  },
+  {
+   "start": 58.74,
+   "end": 58.96,
+   "word": "bisa"
+  },
+  {
+   "start": 58.96,
+   "end": 59.34,
+   "word": "diklik."
+  },
+  {
+   "start": 59.7,
+   "end": 60.08,
+   "word": "Setiap"
+  },
+  {
+   "start": 60.08,
+   "end": 60.38,
+   "word": "gigi"
+  },
+  {
+   "start": 60.38,
+   "end": 60.64,
+   "word": "punya"
+  },
+  {
+   "start": 60.64,
+   "end": 61.08,
+   "word": "nomornya"
+  },
+  {
+   "start": 61.08,
+   "end": 61.42,
+   "word": "sendiri"
+  },
+  {
+   "start": 61.42,
+   "end": 61.92,
+   "word": "sesuai"
+  },
+  {
+   "start": 61.92,
+   "end": 62.44,
+   "word": "penomoran"
+  },
+  {
+   "start": 62.44,
+   "end": 62.92,
+   "word": "standar"
+  },
+  {
+   "start": 62.92,
+   "end": 63.36,
+   "word": "dan"
+  },
+  {
+   "start": 63.36,
+   "end": 63.92,
+   "word": "kondisinya"
+  },
+  {
+   "start": 63.92,
+   "end": 64.44,
+   "word": "ditandai"
+  },
+  {
+   "start": 64.44,
+   "end": 64.68,
+   "word": "dengan"
+  },
+  {
+   "start": 64.68,
+   "end": 65.12,
+   "word": "warna."
+  },
+  {
+   "start": 65.58,
+   "end": 66.0,
+   "word": "Dokter"
+  },
+  {
+   "start": 66.0,
+   "end": 66.3,
+   "word": "tinggal"
+  },
+  {
+   "start": 66.3,
+   "end": 66.7,
+   "word": "memilih"
+  },
+  {
+   "start": 66.7,
+   "end": 67.12,
+   "word": "giginya,"
+  },
+  {
+   "start": 67.56,
+   "end": 67.76,
+   "word": "lalu"
+  },
+  {
+   "start": 67.76,
+   "end": 68.22,
+   "word": "memilih"
+  },
+  {
+   "start": 68.22,
+   "end": 68.76,
+   "word": "kondisinya."
+  },
+  {
+   "start": 69.12,
+   "end": 69.48,
+   "word": "Karies,"
+  },
+  {
+   "start": 69.98,
+   "end": 70.36,
+   "word": "tambalan,"
+  },
+  {
+   "start": 70.78,
+   "end": 70.96,
+   "word": "gigi"
+  },
+  {
+   "start": 70.96,
+   "end": 71.36,
+   "word": "hilang,"
+  },
+  {
+   "start": 71.62,
+   "end": 71.94,
+   "word": "sampai"
+  },
+  {
+   "start": 71.94,
+   "end": 72.38,
+   "word": "gigi"
+  },
+  {
+   "start": 72.38,
+   "end": 72.5,
+   "word": "yang"
+  },
+  {
+   "start": 72.5,
+   "end": 72.68,
+   "word": "sudah"
+  },
+  {
+   "start": 72.68,
+   "end": 73.14,
+   "word": "dicabut"
+  },
+  {
+   "start": 73.14,
+   "end": 73.52,
+   "word": "masing"
+  },
+  {
+   "start": 73.52,
+   "end": 73.78,
+   "word": "-masing"
+  },
+  {
+   "start": 73.78,
+   "end": 74.1,
+   "word": "punya"
+  },
+  {
+   "start": 74.1,
+   "end": 74.38,
+   "word": "warna"
+  },
+  {
+   "start": 74.38,
+   "end": 74.82,
+   "word": "berbeda."
+  },
+  {
+   "start": 75.24,
+   "end": 75.6,
+   "word": "Karena"
+  },
+  {
+   "start": 75.6,
+   "end": 76.14,
+   "word": "ditandai"
+  },
+  {
+   "start": 76.14,
+   "end": 76.32,
+   "word": "dengan"
+  },
+  {
+   "start": 76.32,
+   "end": 76.8,
+   "word": "warna,"
+  },
+  {
+   "start": 77.16,
+   "end": 77.46,
+   "word": "kondisi"
+  },
+  {
+   "start": 77.46,
+   "end": 77.76,
+   "word": "mulut"
+  },
+  {
+   "start": 77.76,
+   "end": 78.12,
+   "word": "pasien"
+  },
+  {
+   "start": 78.12,
+   "end": 78.36,
+   "word": "bisa"
+  },
+  {
+   "start": 78.36,
+   "end": 78.72,
+   "word": "dibaca"
+  },
+  {
+   "start": 78.72,
+   "end": 79.2,
+   "word": "sekilas"
+  },
+  {
+   "start": 79.2,
+   "end": 79.6,
+   "word": "tanpa"
+  },
+  {
+   "start": 79.6,
+   "end": 79.88,
+   "word": "harus"
+  },
+  {
+   "start": 79.88,
+   "end": 80.34,
+   "word": "membaca"
+  },
+  {
+   "start": 80.34,
+   "end": 80.72,
+   "word": "satu"
+  },
+  {
+   "start": 80.72,
+   "end": 81.1,
+   "word": "persatu"
+  },
+  {
+   "start": 81.1,
+   "end": 81.62,
+   "word": "catatannya."
+  },
+  {
+   "start": 82.36,
+   "end": 82.76,
+   "word": "Daftar"
+  },
+  {
+   "start": 82.76,
+   "end": 83.12,
+   "word": "kondisi"
+  },
+  {
+   "start": 83.12,
+   "end": 83.48,
+   "word": "giginya"
+  },
+  {
+   "start": 83.48,
+   "end": 83.8,
+   "word": "sendiri"
+  },
+  {
+   "start": 83.8,
+   "end": 84.06,
+   "word": "bisa"
+  },
+  {
+   "start": 84.06,
+   "end": 84.46,
+   "word": "diatur"
+  },
+  {
+   "start": 84.46,
+   "end": 84.62,
+   "word": "di"
+  },
+  {
+   "start": 84.62,
+   "end": 84.78,
+   "word": "menu"
+  },
+  {
+   "start": 84.78,
+   "end": 85.3,
+   "word": "tersendiri."
+  },
+  {
+   "start": 85.3,
+   "end": 85.9,
+   "word": "Jadi"
+  },
+  {
+   "start": 85.9,
+   "end": 86.16,
+   "word": "kalau"
+  },
+  {
+   "start": 86.16,
+   "end": 86.58,
+   "word": "klinik"
+  },
+  {
+   "start": 86.58,
+   "end": 86.82,
+   "word": "punya"
+  },
+  {
+   "start": 86.82,
+   "end": 87.16,
+   "word": "istilah"
+  },
+  {
+   "start": 87.16,
+   "end": 87.48,
+   "word": "atau"
+  },
+  {
+   "start": 87.48,
+   "end": 88.06,
+   "word": "penandaan"
+  },
+  {
+   "start": 88.06,
+   "end": 88.16,
+   "word": "yang"
+  },
+  {
+   "start": 88.16,
+   "end": 88.42,
+   "word": "biasa"
+  },
+  {
+   "start": 88.42,
+   "end": 88.94,
+   "word": "dipakai,"
+  },
+  {
+   "start": 89.36,
+   "end": 89.6,
+   "word": "daftarnya"
+  },
+  {
+   "start": 89.6,
+   "end": 89.88,
+   "word": "bisa"
+  },
+  {
+   "start": 89.88,
+   "end": 90.48,
+   "word": "disesuaikan,"
+  },
+  {
+   "start": 90.78,
+   "end": 91.14,
+   "word": "bukan"
+  },
+  {
+   "start": 91.14,
+   "end": 91.34,
+   "word": "di"
+  },
+  {
+   "start": 91.34,
+   "end": 91.6,
+   "word": "kunci"
+  },
+  {
+   "start": 91.6,
+   "end": 91.98,
+   "word": "bawaan"
+  },
+  {
+   "start": 91.98,
+   "end": 92.22,
+   "word": "sistem."
+  },
+  {
+   "start": 93.0,
+   "end": 93.46,
+   "word": "Setelah"
+  },
+  {
+   "start": 93.46,
+   "end": 93.96,
+   "word": "pemeriksaan"
+  },
+  {
+   "start": 93.96,
+   "end": 94.36,
+   "word": "selesai,"
+  },
+  {
+   "start": 94.5,
+   "end": 94.74,
+   "word": "dokter"
+  },
+  {
+   "start": 94.74,
+   "end": 95.14,
+   "word": "menentukan"
+  },
+  {
+   "start": 95.14,
+   "end": 95.64,
+   "word": "tindakan."
+  },
+  {
+   "start": 96.1,
+   "end": 96.26,
+   "word": "Di"
+  },
+  {
+   "start": 96.26,
+   "end": 96.44,
+   "word": "menu"
+  },
+  {
+   "start": 96.44,
+   "end": 96.9,
+   "word": "tindakan"
+  },
+  {
+   "start": 96.9,
+   "end": 97.16,
+   "word": "sudah"
+  },
+  {
+   "start": 97.16,
+   "end": 97.68,
+   "word": "tersedia"
+  },
+  {
+   "start": 97.68,
+   "end": 98.08,
+   "word": "daftar"
+  },
+  {
+   "start": 98.08,
+   "end": 98.42,
+   "word": "layanan"
+  },
+  {
+   "start": 98.42,
+   "end": 98.84,
+   "word": "lengkap"
+  },
+  {
+   "start": 98.84,
+   "end": 99.12,
+   "word": "dengan"
+  },
+  {
+   "start": 99.12,
+   "end": 99.66,
+   "word": "kodah,"
+  },
+  {
+   "start": 99.88,
+   "end": 100.36,
+   "word": "kategori,"
+  },
+  {
+   "start": 100.76,
+   "end": 101.14,
+   "word": "tarif,"
+  },
+  {
+   "start": 101.26,
+   "end": 101.3,
+   "word": "dan"
+  },
+  {
+   "start": 101.3,
+   "end": 101.86,
+   "word": "perkiraan"
+  },
+  {
+   "start": 101.86,
+   "end": 102.28,
+   "word": "durasinya."
+  },
+  {
+   "start": 102.74,
+   "end": 103.08,
+   "word": "Dokter"
+  },
+  {
+   "start": 103.08,
+   "end": 103.52,
+   "word": "memilih"
+  },
+  {
+   "start": 103.52,
+   "end": 103.68,
+   "word": "dari"
+  },
+  {
+   "start": 103.68,
+   "end": 104.12,
+   "word": "daftar,"
+  },
+  {
+   "start": 104.36,
+   "end": 104.6,
+   "word": "tidak"
+  },
+  {
+   "start": 104.6,
+   "end": 105.04,
+   "word": "mengetik"
+  },
+  {
+   "start": 105.04,
+   "end": 105.3,
+   "word": "ulang"
+  },
+  {
+   "start": 105.3,
+   "end": 105.5,
+   "word": "nama"
+  },
+  {
+   "start": 105.5,
+   "end": 105.96,
+   "word": "tindakan."
+  },
+  {
+   "start": 106.4,
+   "end": 106.7,
+   "word": "Karena"
+  },
+  {
+   "start": 106.7,
+   "end": 107.2,
+   "word": "tarifnya"
+  },
+  {
+   "start": 107.2,
+   "end": 107.4,
+   "word": "sudah"
+  },
+  {
+   "start": 107.4,
+   "end": 107.9,
+   "word": "tersimpan"
+  },
+  {
+   "start": 107.9,
+   "end": 108.02,
+   "word": "di"
+  },
+  {
+   "start": 108.02,
+   "end": 108.26,
+   "word": "sana,"
+  },
+  {
+   "start": 108.72,
+   "end": 108.96,
+   "word": "harga"
+  },
+  {
+   "start": 108.96,
+   "end": 109.08,
+   "word": "yang"
+  },
+  {
+   "start": 109.08,
+   "end": 109.32,
+   "word": "keluar"
+  },
+  {
+   "start": 109.32,
+   "end": 109.88,
+   "word": "konsisten,"
+  },
+  {
+   "start": 110.2,
+   "end": 110.42,
+   "word": "tidak"
+  },
+  {
+   "start": 110.42,
+   "end": 110.82,
+   "word": "berubah"
+  },
+  {
+   "start": 110.82,
+   "end": 111.3,
+   "word": "tergantung"
+  },
+  {
+   "start": 111.3,
+   "end": 111.6,
+   "word": "siapa"
+  },
+  {
+   "start": 111.6,
+   "end": 111.78,
+   "word": "yang"
+  },
+  {
+   "start": 111.78,
+   "end": 112.02,
+   "word": "jaga"
+  },
+  {
+   "start": 112.02,
+   "end": 112.18,
+   "word": "hari"
+  },
+  {
+   "start": 112.18,
+   "end": 112.42,
+   "word": "itu."
+  },
+  {
+   "start": 113.18,
+   "end": 113.6,
+   "word": "Semua"
+  },
+  {
+   "start": 113.6,
+   "end": 113.7,
+   "word": "yang"
+  },
+  {
+   "start": 113.7,
+   "end": 114.06,
+   "word": "dicatat"
+  },
+  {
+   "start": 114.06,
+   "end": 114.28,
+   "word": "tadi"
+  },
+  {
+   "start": 114.28,
+   "end": 114.78,
+   "word": "menempel"
+  },
+  {
+   "start": 114.78,
+   "end": 114.92,
+   "word": "ke"
+  },
+  {
+   "start": 114.92,
+   "end": 115.5,
+   "word": "pasiennya."
+  },
+  {
+   "start": 115.82,
+   "end": 115.96,
+   "word": "Di"
+  },
+  {
+   "start": 115.96,
+   "end": 116.28,
+   "word": "halaman"
+  },
+  {
+   "start": 116.28,
+   "end": 116.5,
+   "word": "detail"
+  },
+  {
+   "start": 116.5,
+   "end": 116.98,
+   "word": "pasien"
+  },
+  {
+   "start": 116.98,
+   "end": 117.26,
+   "word": "ada"
+  },
+  {
+   "start": 117.26,
+   "end": 117.54,
+   "word": "tab"
+  },
+  {
+   "start": 117.54,
+   "end": 117.94,
+   "word": "priwayat"
+  },
+  {
+   "start": 117.94,
+   "end": 118.48,
+   "word": "kunjungan"
+  },
+  {
+   "start": 118.48,
+   "end": 118.92,
+   "word": "yang"
+  },
+  {
+   "start": 118.92,
+   "end": 119.5,
+   "word": "menampilkan"
+  },
+  {
+   "start": 119.5,
+   "end": 119.9,
+   "word": "setiap"
+  },
+  {
+   "start": 119.9,
+   "end": 120.1,
+   "word": "kali"
+  },
+  {
+   "start": 120.1,
+   "end": 120.48,
+   "word": "pasien"
+  },
+  {
+   "start": 120.48,
+   "end": 120.88,
+   "word": "datang"
+  },
+  {
+   "start": 120.88,
+   "end": 121.28,
+   "word": "beserta"
+  },
+  {
+   "start": 121.28,
+   "end": 121.66,
+   "word": "apa"
+  },
+  {
+   "start": 121.66,
+   "end": 121.84,
+   "word": "yang"
+  },
+  {
+   "start": 121.84,
+   "end": 122.28,
+   "word": "dikerjakan"
+  },
+  {
+   "start": 122.28,
+   "end": 122.52,
+   "word": "waktu"
+  },
+  {
+   "start": 122.52,
+   "end": 122.82,
+   "word": "itu."
+  },
+  {
+   "start": 123.26,
+   "end": 123.52,
+   "word": "Ada"
+  },
+  {
+   "start": 123.52,
+   "end": 123.74,
+   "word": "juga"
+  },
+  {
+   "start": 123.74,
+   "end": 124.0,
+   "word": "tab"
+  },
+  {
+   "start": 124.0,
+   "end": 124.38,
+   "word": "priwayat"
+  },
+  {
+   "start": 124.38,
+   "end": 124.84,
+   "word": "perubahan,"
+  },
+  {
+   "start": 125.24,
+   "end": 125.42,
+   "word": "jadi"
+  },
+  {
+   "start": 125.42,
+   "end": 125.9,
+   "word": "terlihat"
+  },
+  {
+   "start": 125.9,
+   "end": 126.26,
+   "word": "catatan"
+  },
+  {
+   "start": 126.26,
+   "end": 126.5,
+   "word": "mana"
+  },
+  {
+   "start": 126.5,
+   "end": 126.76,
+   "word": "yang"
+  },
+  {
+   "start": 126.76,
+   "end": 126.96,
+   "word": "pernah"
+  },
+  {
+   "start": 126.96,
+   "end": 127.38,
+   "word": "diubah"
+  },
+  {
+   "start": 127.38,
+   "end": 127.56,
+   "word": "dan"
+  },
+  {
+   "start": 127.56,
+   "end": 127.9,
+   "word": "kapan."
+  },
+  {
+   "start": 128.4,
+   "end": 128.68,
+   "word": "Ini"
+  },
+  {
+   "start": 128.68,
+   "end": 128.88,
+   "word": "yang"
+  },
+  {
+   "start": 128.88,
+   "end": 129.22,
+   "word": "membuat"
+  },
+  {
+   "start": 129.22,
+   "end": 129.74,
+   "word": "penanganan"
+  },
+  {
+   "start": 129.74,
+   "end": 129.92,
+   "word": "jadi"
+  },
+  {
+   "start": 129.92,
+   "end": 130.14,
+   "word": "lebih"
+  },
+  {
+   "start": 130.14,
+   "end": 130.56,
+   "word": "mudah"
+  },
+  {
+   "start": 130.56,
+   "end": 130.88,
+   "word": "ketika"
+  },
+  {
+   "start": 130.88,
+   "end": 131.3,
+   "word": "pasien"
+  },
+  {
+   "start": 131.3,
+   "end": 131.78,
+   "word": "ditangani"
+  },
+  {
+   "start": 131.78,
+   "end": 132.08,
+   "word": "dokter"
+  },
+  {
+   "start": 132.08,
+   "end": 132.18,
+   "word": "yang"
+  },
+  {
+   "start": 132.18,
+   "end": 132.62,
+   "word": "berbeda."
+  },
+  {
+   "start": 133.04,
+   "end": 133.38,
+   "word": "Dokter"
+  },
+  {
+   "start": 133.38,
+   "end": 133.52,
+   "word": "yang"
+  },
+  {
+   "start": 133.52,
+   "end": 133.72,
+   "word": "baru"
+  },
+  {
+   "start": 133.72,
+   "end": 133.98,
+   "word": "pertama"
+  },
+  {
+   "start": 133.98,
+   "end": 134.3,
+   "word": "kali"
+  },
+  {
+   "start": 134.3,
+   "end": 134.72,
+   "word": "menangani"
+  },
+  {
+   "start": 134.72,
+   "end": 135.06,
+   "word": "pasien"
+  },
+  {
+   "start": 135.06,
+   "end": 135.32,
+   "word": "itu"
+  },
+  {
+   "start": 135.32,
+   "end": 135.56,
+   "word": "bisa"
+  },
+  {
+   "start": 135.56,
+   "end": 135.96,
+   "word": "membuka"
+  },
+  {
+   "start": 135.96,
+   "end": 136.8,
+   "word": "odontogramnya,"
+  },
+  {
+   "start": 137.18,
+   "end": 137.52,
+   "word": "melihat"
+  },
+  {
+   "start": 137.52,
+   "end": 137.7,
+   "word": "gigi"
+  },
+  {
+   "start": 137.7,
+   "end": 137.98,
+   "word": "mana"
+  },
+  {
+   "start": 137.98,
+   "end": 138.2,
+   "word": "yang"
+  },
+  {
+   "start": 138.2,
+   "end": 138.36,
+   "word": "sudah"
+  },
+  {
+   "start": 138.36,
+   "end": 138.92,
+   "word": "dikerjakan"
+  },
+  {
+   "start": 138.92,
+   "end": 139.4,
+   "word": "lalu"
+  },
+  {
+   "start": 139.4,
+   "end": 139.94,
+   "word": "melanjutkan"
+  },
+  {
+   "start": 139.94,
+   "end": 140.1,
+   "word": "dari"
+  },
+  {
+   "start": 140.1,
+   "end": 140.36,
+   "word": "sana."
+  },
+  {
+   "start": 140.88,
+   "end": 141.24,
+   "word": "Jadi"
+  },
+  {
+   "start": 141.24,
+   "end": 141.82,
+   "word": "ringkasnya,"
+  },
+  {
+   "start": 142.16,
+   "end": 142.48,
+   "word": "catatan"
+  },
+  {
+   "start": 142.48,
+   "end": 142.92,
+   "word": "klinis"
+  },
+  {
+   "start": 142.92,
+   "end": 143.4,
+   "word": "terstruktur,"
+  },
+  {
+   "start": 143.78,
+   "end": 144.16,
+   "word": "kondisi"
+  },
+  {
+   "start": 144.16,
+   "end": 144.52,
+   "word": "gigi"
+  },
+  {
+   "start": 144.52,
+   "end": 145.06,
+   "word": "terpetakan"
+  },
+  {
+   "start": 145.06,
+   "end": 145.24,
+   "word": "per"
+  },
+  {
+   "start": 145.24,
+   "end": 145.8,
+   "word": "gigi,"
+  },
+  {
+   "start": 146.02,
+   "end": 146.08,
+   "word": "dan"
+  },
+  {
+   "start": 146.08,
+   "end": 146.64,
+   "word": "priwayatnya"
+  },
+  {
+   "start": 146.64,
+   "end": 147.18,
+   "word": "tersimpan"
+  },
+  {
+   "start": 147.18,
+   "end": 147.34,
+   "word": "per"
+  },
+  {
+   "start": 147.34,
+   "end": 147.78,
+   "word": "pasien."
+  },
+  {
+   "start": 148.18,
+   "end": 148.44,
+   "word": "Tiga"
+  },
+  {
+   "start": 148.44,
+   "end": 148.68,
+   "word": "hal"
+  },
+  {
+   "start": 148.68,
+   "end": 148.86,
+   "word": "yang"
+  },
+  {
+   "start": 148.86,
+   "end": 149.16,
+   "word": "kalau"
+  },
+  {
+   "start": 149.16,
+   "end": 149.42,
+   "word": "masih"
+  },
+  {
+   "start": 149.42,
+   "end": 149.84,
+   "word": "dikertas"
+  },
+  {
+   "start": 149.84,
+   "end": 150.4,
+   "word": "biasanya"
+  },
+  {
+   "start": 150.4,
+   "end": 150.66,
+   "word": "paling"
+  },
+  {
+   "start": 150.66,
+   "end": 151.0,
+   "word": "cepat"
+  },
+  {
+   "start": 151.0,
+   "end": 151.48,
+   "word": "berantakan."
+  },
+  {
+   "start": 152.08,
+   "end": 152.34,
+   "word": "Kalau"
+  },
+  {
+   "start": 152.34,
+   "end": 152.6,
+   "word": "ingin"
+  },
+  {
+   "start": 152.6,
+   "end": 152.88,
+   "word": "melihat"
+  },
+  {
+   "start": 152.88,
+   "end": 153.24,
+   "word": "langsung"
+  },
+  {
+   "start": 153.24,
+   "end": 153.78,
+   "word": "odontogram"
+  },
+  {
+   "start": 153.78,
+   "end": 153.98,
+   "word": "dan"
+  },
+  {
+   "start": 153.98,
+   "end": 154.4,
+   "word": "halaman"
+  },
+  {
+   "start": 154.4,
+   "end": 155.1,
+   "word": "pemeriksaannya,"
+  },
+  {
+   "start": 155.48,
+   "end": 155.8,
+   "word": "versi"
+  },
+  {
+   "start": 155.8,
+   "end": 156.06,
+   "word": "demonya"
+  },
+  {
+   "start": 156.06,
+   "end": 156.28,
+   "word": "bisa"
+  },
+  {
+   "start": 156.28,
+   "end": 156.62,
+   "word": "dicoba"
+  },
+  {
+   "start": 156.62,
+   "end": 156.96,
+   "word": "lewat"
+  },
+  {
+   "start": 156.96,
+   "end": 157.36,
+   "word": "tautan"
+  },
+  {
+   "start": 157.36,
+   "end": 157.48,
+   "word": "di"
+  },
+  {
+   "start": 157.48,
+   "end": 158.02,
+   "word": "deskripsi."
+  }
+ ]
+}
